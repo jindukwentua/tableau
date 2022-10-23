@@ -1,8 +1,8 @@
 <?xml version='1.0'?>
 
 <workbook>
-	<preferences>
-        <color-palette name="Material Design Red" type="regular" >
+    <preferences>
+        <color-palette name="Material Design Red" type="regular">
             <color>#FFEBEE</color>
             <color>#FFCDD2</color>
             <color>#EF9A9A</color>
@@ -15,7 +15,7 @@
             <color>#B71C1C</color>
         </color-palette>
 
-        <color-palette name="Material Design Pink" type="regular" >
+        <color-palette name="Material Design Pink" type="regular">
             <color>#FCE4EC</color>
             <color>#F8BBD0</color>
             <color>#F48FB1</color>
@@ -28,7 +28,7 @@
             <color>#880E4F</color>
         </color-palette>
 
-        <color-palette name="Material Design Purple" type="regular" >
+        <color-palette name="Material Design Purple" type="regular">
             <color>#F3E5F5</color>
             <color>#E1BEE7</color>
             <color>#CE93D8</color>
@@ -41,7 +41,7 @@
             <color>#4A148C</color>
         </color-palette>
 
-        <color-palette name="Material Design Deep Purple" type="regular" >
+        <color-palette name="Material Design Deep Purple" type="regular">
             <color>#EDE7F6</color>
             <color>#D1C4E9</color>
             <color>#B39DDB</color>
@@ -54,7 +54,7 @@
             <color>#311B92</color>
         </color-palette>
 
-        <color-palette name="Material Design Indigo" type="regular" >
+        <color-palette name="Material Design Indigo" type="regular">
             <color>#E8EAF6</color>
             <color>#C5CAE9</color>
             <color>#9FA8DA</color>
@@ -67,7 +67,7 @@
             <color>#1A237E</color>
         </color-palette>
 
-        <color-palette name="Material Design Blue" type="regular" >
+        <color-palette name="Material Design Blue" type="regular">
             <color>#E3F2FD</color>
             <color>#BBDEFB</color>
             <color>#90CAF9</color>
@@ -80,7 +80,7 @@
             <color>#0D47A1</color>
         </color-palette>
 
-        <color-palette name="Material Design Light Blue" type="regular" >
+        <color-palette name="Material Design Light Blue" type="regular">
             <color>#E1F5FE</color>
             <color>#B3E5FC</color>
             <color>#81D4FA</color>
@@ -93,7 +93,7 @@
             <color>#01579B</color>
         </color-palette>
 
-        <color-palette name="Material Design Cyan" type="regular" >
+        <color-palette name="Material Design Cyan" type="regular">
             <color>#E0F7FA</color>
             <color>#B2EBF2</color>
             <color>#80DEEA</color>
@@ -106,7 +106,7 @@
             <color>#006064</color>
         </color-palette>
 
-        <color-palette name="Material Design Teal" type="regular" >
+        <color-palette name="Material Design Teal" type="regular">
             <color>#E0F2F1</color>
             <color>#B2DFDB</color>
             <color>#80CBC4</color>
@@ -119,7 +119,7 @@
             <color>#004D40</color>
         </color-palette>
 
-        <color-palette name="Material Design Green" type="regular" >
+        <color-palette name="Material Design Green" type="regular">
             <color>#E8F5E9</color>
             <color>#C8E6C9</color>
             <color>#A5D6A7</color>
@@ -132,7 +132,7 @@
             <color>#1B5E20</color>
         </color-palette>
 
-        <color-palette name="Material Design Light Green" type="regular" >
+        <color-palette name="Material Design Light Green" type="regular">
             <color>#F1F8E9</color>
             <color>#DCEDC8</color>
             <color>#C5E1A5</color>
@@ -145,7 +145,7 @@
             <color>#33691E</color>
         </color-palette>
 
-        <color-palette name="Material Design Lime" type="regular" >
+        <color-palette name="Material Design Lime" type="regular">
             <color>#F1F8E9</color>
             <color>#F0F4C3</color>
             <color>#E6EE9C</color>
@@ -158,7 +158,7 @@
             <color>#827717</color>
         </color-palette>
 
-        <color-palette name="Material Design Yellow" type="regular" >
+        <color-palette name="Material Design Yellow" type="regular">
             <color>#FFFDE7</color>
             <color>#FFF9C4</color>
             <color>#FFF59D</color>
@@ -171,7 +171,7 @@
             <color>#F57F17</color>
         </color-palette>
 
-        <color-palette name="Material Design Amber" type="regular" >
+        <color-palette name="Material Design Amber" type="regular">
             <color>#FFF8E1</color>
             <color>#FFECB3</color>
             <color>#FFE082</color>
@@ -184,7 +184,7 @@
             <color>#FF6F00</color>
         </color-palette>
 
-        <color-palette name="Material Design Orange" type="regular" >
+        <color-palette name="Material Design Orange" type="regular">
             <color>#FFF3E0</color>
             <color>#FFE0B2</color>
             <color>#FFCC80</color>
@@ -197,7 +197,7 @@
             <color>#E65100</color>
         </color-palette>
 
-        <color-palette name="Material Design Deep Orange" type="regular" >
+        <color-palette name="Material Design Deep Orange" type="regular">
             <color>#FBE9E7</color>
             <color>#FFCCBC</color>
             <color>#FFAB91</color>
@@ -210,7 +210,7 @@
             <color>#BF360C</color>
         </color-palette>
 
-        <color-palette name="Material Design Brown" type="regular" >
+        <color-palette name="Material Design Brown" type="regular">
             <color>#EFEBE9</color>
             <color>#D7CCC8</color>
             <color>#BCAAA4</color>
@@ -223,7 +223,7 @@
             <color>#3E2723</color>
         </color-palette>
 
-        <color-palette name="Material Design Grey" type="regular" >
+        <color-palette name="Material Design Grey" type="regular">
             <color>#FAFAFA</color>
             <color>#F5F5F5</color>
             <color>#EEEEEE</color>
@@ -236,7 +236,7 @@
             <color>#212121</color>
         </color-palette>
 
-        <color-palette name="Material Design Blue Grey" type="regular" >
+        <color-palette name="Material Design Blue Grey" type="regular">
             <color>#ECEFF1</color>
             <color>#CFD8DC</color>
             <color>#B0BEC5</color>
@@ -249,12 +249,12 @@
             <color>#263238</color>
         </color-palette>
 
-        <color-palette name="Material Design Black and White" type="regular" >
+        <color-palette name="Material Design Black and White" type="regular">
             <color>#000000</color>
             <color>#FFFFFF</color>
         </color-palette>
 
-        <color-palette name="Material Design A100" type="regular" >
+        <color-palette name="Material Design A100" type="regular">
             <color>#FF8A80</color>
             <color>#FF80AB</color>
             <color>#EA80FC</color>
@@ -273,7 +273,7 @@
             <color>#FF9E80</color>
         </color-palette>
 
-        <color-palette name="Material Design A200" type="regular" >
+        <color-palette name="Material Design A200" type="regular">
             <color>#FF5252</color>
             <color>#FF4081</color>
             <color>#E040FB</color>
@@ -292,7 +292,7 @@
             <color>#FF6E40</color>
         </color-palette>
 
-        <color-palette name="Material Design A400" type="regular" >
+        <color-palette name="Material Design A400" type="regular">
             <color>#FF1744</color>
             <color>#F50057</color>
             <color>#D500F9</color>
@@ -309,9 +309,9 @@
             <color>#FFC400</color>
             <color>#FF9100</color>
             <color>#FF3D00</color>
-        </color-palette>  
-    
-        <color-palette name="Material Design A700" type="regular" >
+        </color-palette>
+
+        <color-palette name="Material Design A700" type="regular">
             <color>#D50000</color>
             <color>#C51162</color>
             <color>#AA00FF</color>
@@ -330,7 +330,7 @@
             <color>#DD2C00</color>
         </color-palette>
 
-        <color-palette name="Material Design Red Seq" type="ordered-sequential" >
+        <color-palette name="Material Design Red Seq" type="ordered-sequential">
             <color>#FFEBEE</color>
             <color>#FFCDD2</color>
             <color>#EF9A9A</color>
@@ -343,7 +343,7 @@
             <color>#B71C1C</color>
         </color-palette>
 
-        <color-palette name="Material Design Pink Seq" type="ordered-sequential" >
+        <color-palette name="Material Design Pink Seq" type="ordered-sequential">
             <color>#FCE4EC</color>
             <color>#F8BBD0</color>
             <color>#F48FB1</color>
@@ -356,7 +356,7 @@
             <color>#880E4F</color>
         </color-palette>
 
-        <color-palette name="Material Design Purple Seq" type="ordered-sequential" >
+        <color-palette name="Material Design Purple Seq" type="ordered-sequential">
             <color>#F3E5F5</color>
             <color>#E1BEE7</color>
             <color>#CE93D8</color>
@@ -369,7 +369,7 @@
             <color>#4A148C</color>
         </color-palette>
 
-        <color-palette name="Material Design Deep Purple Seq" type="ordered-sequential" >
+        <color-palette name="Material Design Deep Purple Seq" type="ordered-sequential">
             <color>#EDE7F6</color>
             <color>#D1C4E9</color>
             <color>#B39DDB</color>
@@ -382,7 +382,7 @@
             <color>#311B92</color>
         </color-palette>
 
-        <color-palette name="Material Design Indigo Seq" type="ordered-sequential" >
+        <color-palette name="Material Design Indigo Seq" type="ordered-sequential">
             <color>#E8EAF6</color>
             <color>#C5CAE9</color>
             <color>#9FA8DA</color>
@@ -395,7 +395,7 @@
             <color>#1A237E</color>
         </color-palette>
 
-        <color-palette name="Material Design Blue Seq" type="ordered-sequential" >
+        <color-palette name="Material Design Blue Seq" type="ordered-sequential">
             <color>#E3F2FD</color>
             <color>#BBDEFB</color>
             <color>#90CAF9</color>
@@ -408,7 +408,7 @@
             <color>#0D47A1</color>
         </color-palette>
 
-        <color-palette name="Material Design Light Blue Seq" type="ordered-sequential" >
+        <color-palette name="Material Design Light Blue Seq" type="ordered-sequential">
             <color>#E1F5FE</color>
             <color>#B3E5FC</color>
             <color>#81D4FA</color>
@@ -421,7 +421,7 @@
             <color>#01579B</color>
         </color-palette>
 
-        <color-palette name="Material Design Cyan Seq" type="ordered-sequential" >
+        <color-palette name="Material Design Cyan Seq" type="ordered-sequential">
             <color>#E0F7FA</color>
             <color>#B2EBF2</color>
             <color>#80DEEA</color>
@@ -434,7 +434,7 @@
             <color>#006064</color>
         </color-palette>
 
-        <color-palette name="Material Design Teal Seq" type="ordered-sequential" >
+        <color-palette name="Material Design Teal Seq" type="ordered-sequential">
             <color>#E0F2F1</color>
             <color>#B2DFDB</color>
             <color>#80CBC4</color>
@@ -447,7 +447,7 @@
             <color>#004D40</color>
         </color-palette>
 
-        <color-palette name="Material Design Green Seq" type="ordered-sequential" >
+        <color-palette name="Material Design Green Seq" type="ordered-sequential">
             <color>#E8F5E9</color>
             <color>#C8E6C9</color>
             <color>#A5D6A7</color>
@@ -460,7 +460,7 @@
             <color>#1B5E20</color>
         </color-palette>
 
-        <color-palette name="Material Design Light Green Seq" type="ordered-sequential" >
+        <color-palette name="Material Design Light Green Seq" type="ordered-sequential">
             <color>#F1F8E9</color>
             <color>#DCEDC8</color>
             <color>#C5E1A5</color>
@@ -473,7 +473,7 @@
             <color>#33691E</color>
         </color-palette>
 
-        <color-palette name="Material Design Lime Seq" type="ordered-sequential" >
+        <color-palette name="Material Design Lime Seq" type="ordered-sequential">
             <color>#F1F8E9</color>
             <color>#F0F4C3</color>
             <color>#E6EE9C</color>
@@ -486,7 +486,7 @@
             <color>#827717</color>
         </color-palette>
 
-        <color-palette name="Material Design Yellow Seq" type="ordered-sequential" >
+        <color-palette name="Material Design Yellow Seq" type="ordered-sequential">
             <color>#FFFDE7</color>
             <color>#FFF9C4</color>
             <color>#FFF59D</color>
@@ -499,7 +499,7 @@
             <color>#F57F17</color>
         </color-palette>
 
-        <color-palette name="Material Design Amber Seq" type="ordered-sequential" >
+        <color-palette name="Material Design Amber Seq" type="ordered-sequential">
             <color>#FFF8E1</color>
             <color>#FFECB3</color>
             <color>#FFE082</color>
@@ -512,7 +512,7 @@
             <color>#FF6F00</color>
         </color-palette>
 
-        <color-palette name="Material Design Orange Seq" type="ordered-sequential" >
+        <color-palette name="Material Design Orange Seq" type="ordered-sequential">
             <color>#FFF3E0</color>
             <color>#FFE0B2</color>
             <color>#FFCC80</color>
@@ -525,7 +525,7 @@
             <color>#E65100</color>
         </color-palette>
 
-        <color-palette name="Material Design Deep Orange Seq" type="ordered-sequential" >
+        <color-palette name="Material Design Deep Orange Seq" type="ordered-sequential">
             <color>#FBE9E7</color>
             <color>#FFCCBC</color>
             <color>#FFAB91</color>
@@ -537,8 +537,8 @@
             <color>#D84315</color>
             <color>#BF360C</color>
         </color-palette>
-  
-        <color-palette name="Material Design Brown Seq" type="ordered-sequential" >
+
+        <color-palette name="Material Design Brown Seq" type="ordered-sequential">
             <color>#EFEBE9</color>
             <color>#D7CCC8</color>
             <color>#BCAAA4</color>
@@ -550,8 +550,8 @@
             <color>#4E342E</color>
             <color>#3E2723</color>
         </color-palette>
-    
-        <color-palette name="Material Design Grey Seq" type="ordered-sequential" >
+
+        <color-palette name="Material Design Grey Seq" type="ordered-sequential">
             <color>#FAFAFA</color>
             <color>#F5F5F5</color>
             <color>#EEEEEE</color>
@@ -563,7 +563,7 @@
             <color>#424242</color>
             <color>#212121</color>
         </color-palette>
-        <color-palette name="Material Design Blue Grey Seq" type="ordered-sequential" >
+        <color-palette name="Material Design Blue Grey Seq" type="ordered-sequential">
             <color>#ECEFF1</color>
             <color>#CFD8DC</color>
             <color>#B0BEC5</color>
@@ -575,13 +575,13 @@
             <color>#37474F</color>
             <color>#263238</color>
         </color-palette>
-    
-        <color-palette name="Material Design Black and White Seq" type="ordered-sequential" >
+
+        <color-palette name="Material Design Black and White Seq" type="ordered-sequential">
             <color>#000000</color>
             <color>#FFFFFF</color>
         </color-palette>
 
-        <color-palette name="Metro Colors" type="regular" >
+        <color-palette name="Metro Colors" type="regular">
             <color>#a4c400</color>
             <color>#60a917</color>
             <color>#008a00</color>
@@ -605,7 +605,7 @@
         </color-palette>
 
 
-        <color-palette name="Social Platform" type="regular" >
+        <color-palette name="Social Platform" type="regular">
             <color name="Facebook">#3b5998</color>
             <color name="Twitter">#1da1f2</color>
             <color name="YouTube">#ff0000</color>
@@ -628,7 +628,7 @@
             <color name="Skype">#00aff0</color>
         </color-palette>
 
-        <color-palette name="iOS UIColor Light Default" type="regular" >
+        <color-palette name="iOS UIColor Light Default" type="regular">
             <color>#007aff</color>
             <color>#34c759</color>
             <color>#5856d6</color>
@@ -640,7 +640,7 @@
             <color>#ffcc00</color>
         </color-palette>
 
-        <color-palette name="iOS UIColor Dark Default" type="regular" >
+        <color-palette name="iOS UIColor Dark Default" type="regular">
             <color>#0a84ff</color>
             <color>#30d158</color>
             <color>#5e5ce6</color>
@@ -652,7 +652,7 @@
             <color>#ffd60a</color>
         </color-palette>
 
-        <color-palette name="iOS UIColor Light Accessible" type="regular" >
+        <color-palette name="iOS UIColor Light Accessible" type="regular">
             <color>#0040dd</color>
             <color>#248a3d</color>
             <color>#3634a3</color>
@@ -664,7 +664,7 @@
             <color>#a05a00</color>
         </color-palette>
 
-        <color-palette name="iOS UIColor Dark Accessible" type="regular" >
+        <color-palette name="iOS UIColor Dark Accessible" type="regular">
             <color>#409cff</color>
             <color>#30db5b</color>
             <color>#7d7aff</color>
@@ -676,7 +676,7 @@
             <color>#ffd426</color>
         </color-palette>
 
-        <color-palette name="iOS System Colors Light Default" type="regular" >
+        <color-palette name="iOS System Colors Light Default" type="regular">
             <color>#f2f2f7</color>
             <color>#e5e5ea</color>
             <color>#d1d1d6</color>
@@ -685,7 +685,7 @@
             <color>#8e8e93</color>
         </color-palette>
 
-        <color-palette name="iOS System Colors Dark Default" type="regular" >
+        <color-palette name="iOS System Colors Dark Default" type="regular">
             <color>#8e8e93</color>
             <color>#636366</color>
             <color>#48484a</color>
@@ -694,7 +694,7 @@
             <color>#1c1c1e</color>
         </color-palette>
 
-        <color-palette name="iOS System Colors Light Accessible" type="regular" >
+        <color-palette name="iOS System Colors Light Accessible" type="regular">
             <color>#ebebf0</color>
             <color>#d8d8dc</color>
             <color>#bcbcc0</color>
@@ -703,7 +703,7 @@
             <color>#6c6c70</color>
         </color-palette>
 
-        <color-palette name="iOS System Colors Dark Accessible" type="regular" >
+        <color-palette name="iOS System Colors Dark Accessible" type="regular">
             <color>#aeaeb2</color>
             <color>#7c7c80</color>
             <color>#545456</color>
@@ -969,7 +969,7 @@
             <color>#f2e3d0</color>
             <color>#f1e5d5</color>
             <color>#f0e6dc</color>
-        </color-palette> 
+        </color-palette>
 
         <color-palette name="Magma" type="ordered-sequential">
             <color>#000004</color>
@@ -1228,8 +1228,8 @@
             <color>#FCF9BB</color>
             <color>#FCFBBD</color>
             <color>#FCFDBF</color>
-            </color-palette>
-            <color-palette name="Inferno" type="ordered-sequential">
+        </color-palette>
+        <color-palette name="Inferno" type="ordered-sequential">
             <color>#000004</color>
             <color>#010005</color>
             <color>#010106</color>
@@ -1486,8 +1486,8 @@
             <color>#F9FC9D</color>
             <color>#FAFDA1</color>
             <color>#FCFFA4</color>
-            </color-palette>
-            <color-palette name="Plasma" type="ordered-sequential">
+        </color-palette>
+        <color-palette name="Plasma" type="ordered-sequential">
             <color>#0D0887</color>
             <color>#100788</color>
             <color>#130789</color>
@@ -1744,8 +1744,8 @@
             <color>#F1F525</color>
             <color>#F0F724</color>
             <color>#F0F921</color>
-            </color-palette>
-            <color-palette name="Viridis" type="ordered-sequential">
+        </color-palette>
+        <color-palette name="Viridis" type="ordered-sequential">
             <color>#440154</color>
             <color>#440256</color>
             <color>#450457</color>
@@ -3293,2491 +3293,2491 @@
             <color>#FBFEFB</color>
             <color>#FDFEFD</color>
             <color>#FFFFFF</color>
-		</color-palette>
+        </color-palette>
 
-        <color-palette name="Accent-3" type="regular" >
+        <color-palette name="Accent-3" type="regular">
             <color>#7FC97F</color>
             <color>#BEAED4</color>
             <color>#FDC086</color>
         </color-palette>
 
-    <color-palette name="Accent-4" type="regular" >
-    <color>#7FC97F</color>
-    <color>#BEAED4</color>
-    <color>#FDC086</color>
-    <color>#FFFF99</color>
-    </color-palette>
-
-    <color-palette name="Accent-5" type="regular" >
-    <color>#7FC97F</color>
-    <color>#BEAED4</color>
-    <color>#FDC086</color>
-    <color>#FFFF99</color>
-    <color>#386CB0</color>
-    </color-palette>
-
-    <color-palette name="Accent-6" type="regular" >
-    <color>#7FC97F</color>
-    <color>#BEAED4</color>
-    <color>#FDC086</color>
-    <color>#FFFF99</color>
-    <color>#386CB0</color>
-    <color>#F027F</color>
-    </color-palette>
-
-    <color-palette name="Accent-7" type="regular" >
-    <color>#7FC97F</color>
-    <color>#BEAED4</color>
-    <color>#FDC086</color>
-    <color>#FFFF99</color>
-    <color>#386CB0</color>
-    <color>#F027F</color>
-    <color>#BF5B17</color>
-    </color-palette>
-
-    <color-palette name="Accent-8" type="regular" >
-    <color>#7FC97F</color>
-    <color>#BEAED4</color>
-    <color>#FDC086</color>
-    <color>#FFFF99</color>
-    <color>#386CB0</color>
-    <color>#F027F</color>
-    <color>#BF5B17</color>
-    <color>#666666</color>
-    </color-palette>
-
-    <color-palette name="Blues-3" type="ordered-sequential" >
-    <color>#DEEBF7</color>
-    <color>#9ECAE1</color>
-    <color>#3182BD</color>
-    </color-palette>
-
-    <color-palette name="Blues-4" type="ordered-sequential" >
-    <color>#EFF3FF</color>
-    <color>#BDD7E7</color>
-    <color>#6BAED6</color>
-    <color>#2171B5</color>
-    </color-palette>
-
-    <color-palette name="Blues-5" type="ordered-sequential" >
-    <color>#EFF3FF</color>
-    <color>#BDD7E7</color>
-    <color>#6BAED6</color>
-    <color>#3182BD</color>
-    <color>#8519C</color>
-    </color-palette>
-
-    <color-palette name="Blues-6" type="ordered-sequential" >
-    <color>#EFF3FF</color>
-    <color>#C6DBEF</color>
-    <color>#9ECAE1</color>
-    <color>#6BAED6</color>
-    <color>#3182BD</color>
-    <color>#8519C</color>
-    </color-palette>
-
-    <color-palette name="Blues-7" type="ordered-sequential" >
-    <color>#EFF3FF</color>
-    <color>#C6DBEF</color>
-    <color>#9ECAE1</color>
-    <color>#6BAED6</color>
-    <color>#4292C6</color>
-    <color>#2171B5</color>
-    <color>#84594</color>
-    </color-palette>
-
-    <color-palette name="Blues-8" type="ordered-sequential" >
-    <color>#F7FBFF</color>
-    <color>#DEEBF7</color>
-    <color>#C6DBEF</color>
-    <color>#9ECAE1</color>
-    <color>#6BAED6</color>
-    <color>#4292C6</color>
-    <color>#2171B5</color>
-    <color>#84594</color>
-    </color-palette>
-
-    <color-palette name="Blues-9" type="ordered-sequential" >
-    <color>#F7FBFF</color>
-    <color>#DEEBF7</color>
-    <color>#C6DBEF</color>
-    <color>#9ECAE1</color>
-    <color>#6BAED6</color>
-    <color>#4292C6</color>
-    <color>#2171B5</color>
-    <color>#8519C</color>
-    <color>#8306B</color>
-    </color-palette>
-
-    <color-palette name="BrBG-3" type="ordered-diverging" >
-    <color>#D8B365</color>
-    <color>#F5F5F5</color>
-    <color>#5AB4AC</color>
-    </color-palette>
-
-    <color-palette name="BrBG-4" type="ordered-diverging" >
-    <color>#A6611A</color>
-    <color>#DFC27D</color>
-    <color>#80CDC1</color>
-    <color>#18571</color>
-    </color-palette>
-
-    <color-palette name="BrBG-5" type="ordered-diverging" >
-    <color>#A6611A</color>
-    <color>#DFC27D</color>
-    <color>#F5F5F5</color>
-    <color>#80CDC1</color>
-    <color>#18571</color>
-    </color-palette>
-
-    <color-palette name="BrBG-6" type="ordered-diverging" >
-    <color>#8C51A</color>
-    <color>#D8B365</color>
-    <color>#F6E8C3</color>
-    <color>#C7EAE5</color>
-    <color>#5AB4AC</color>
-    <color>#1665E</color>
-    </color-palette>
-
-    <color-palette name="BrBG-7" type="ordered-diverging" >
-    <color>#8C51A</color>
-    <color>#D8B365</color>
-    <color>#F6E8C3</color>
-    <color>#F5F5F5</color>
-    <color>#C7EAE5</color>
-    <color>#5AB4AC</color>
-    <color>#1665E</color>
-    </color-palette>
-
-    <color-palette name="BrBG-8" type="ordered-diverging" >
-    <color>#8C51A</color>
-    <color>#BF812D</color>
-    <color>#DFC27D</color>
-    <color>#F6E8C3</color>
-    <color>#C7EAE5</color>
-    <color>#80CDC1</color>
-    <color>#35978F</color>
-    <color>#1665E</color>
-    </color-palette>
-
-    <color-palette name="BrBG-9" type="ordered-diverging" >
-    <color>#8C51A</color>
-    <color>#BF812D</color>
-    <color>#DFC27D</color>
-    <color>#F6E8C3</color>
-    <color>#F5F5F5</color>
-    <color>#C7EAE5</color>
-    <color>#80CDC1</color>
-    <color>#35978F</color>
-    <color>#1665E</color>
-    </color-palette>
-
-    <color-palette name="BrBG-10" type="ordered-diverging" >
-    <color>#54305</color>
-    <color>#8C51A</color>
-    <color>#BF812D</color>
-    <color>#DFC27D</color>
-    <color>#F6E8C3</color>
-    <color>#C7EAE5</color>
-    <color>#80CDC1</color>
-    <color>#35978F</color>
-    <color>#1665E</color>
-    <color>#03C30</color>
-    </color-palette>
-
-    <color-palette name="BrBG-11" type="ordered-diverging" >
-    <color>#54305</color>
-    <color>#8C51A</color>
-    <color>#BF812D</color>
-    <color>#DFC27D</color>
-    <color>#F6E8C3</color>
-    <color>#F5F5F5</color>
-    <color>#C7EAE5</color>
-    <color>#80CDC1</color>
-    <color>#35978F</color>
-    <color>#1665E</color>
-    <color>#03C30</color>
-    </color-palette>
-
-    <color-palette name="BuGn-3" type="ordered-sequential" >
-    <color>#E5F5F9</color>
-    <color>#99D8C9</color>
-    <color>#2CA25F</color>
-    </color-palette>
-
-    <color-palette name="BuGn-4" type="ordered-sequential" >
-    <color>#EDF8FB</color>
-    <color>#B2E2E2</color>
-    <color>#66C2A4</color>
-    <color>#238B45</color>
-    </color-palette>
-
-    <color-palette name="BuGn-5" type="ordered-sequential" >
-    <color>#EDF8FB</color>
-    <color>#B2E2E2</color>
-    <color>#66C2A4</color>
-    <color>#2CA25F</color>
-    <color>#06D2C</color>
-    </color-palette>
-
-    <color-palette name="BuGn-6" type="ordered-sequential" >
-    <color>#EDF8FB</color>
-    <color>#CCECE6</color>
-    <color>#99D8C9</color>
-    <color>#66C2A4</color>
-    <color>#2CA25F</color>
-    <color>#06D2C</color>
-    </color-palette>
-
-    <color-palette name="BuGn-7" type="ordered-sequential" >
-    <color>#EDF8FB</color>
-    <color>#CCECE6</color>
-    <color>#99D8C9</color>
-    <color>#66C2A4</color>
-    <color>#41AE76</color>
-    <color>#238B45</color>
-    <color>#05824</color>
-    </color-palette>
-
-    <color-palette name="BuGn-8" type="ordered-sequential" >
-    <color>#F7FCFD</color>
-    <color>#E5F5F9</color>
-    <color>#CCECE6</color>
-    <color>#99D8C9</color>
-    <color>#66C2A4</color>
-    <color>#41AE76</color>
-    <color>#238B45</color>
-    <color>#05824</color>
-    </color-palette>
-
-    <color-palette name="BuGn-9" type="ordered-sequential" >
-    <color>#F7FCFD</color>
-    <color>#E5F5F9</color>
-    <color>#CCECE6</color>
-    <color>#99D8C9</color>
-    <color>#66C2A4</color>
-    <color>#41AE76</color>
-    <color>#238B45</color>
-    <color>#06D2C</color>
-    <color>#0441B</color>
-    </color-palette>
-
-    <color-palette name="BuPu-3" type="ordered-sequential" >
-    <color>#E0ECF4</color>
-    <color>#9EBCDA</color>
-    <color>#8856A7</color>
-    </color-palette>
-
-    <color-palette name="BuPu-4" type="ordered-sequential" >
-    <color>#EDF8FB</color>
-    <color>#B3CDE3</color>
-    <color>#8C96C6</color>
-    <color>#88419D</color>
-    </color-palette>
-
-    <color-palette name="BuPu-5" type="ordered-sequential" >
-    <color>#EDF8FB</color>
-    <color>#B3CDE3</color>
-    <color>#8C96C6</color>
-    <color>#8856A7</color>
-    <color>#81F7C</color>
-    </color-palette>
-
-    <color-palette name="BuPu-6" type="ordered-sequential" >
-    <color>#EDF8FB</color>
-    <color>#BFD3E6</color>
-    <color>#9EBCDA</color>
-    <color>#8C96C6</color>
-    <color>#8856A7</color>
-    <color>#81F7C</color>
-    </color-palette>
-
-    <color-palette name="BuPu-7" type="ordered-sequential" >
-    <color>#EDF8FB</color>
-    <color>#BFD3E6</color>
-    <color>#9EBCDA</color>
-    <color>#8C96C6</color>
-    <color>#8C6BB1</color>
-    <color>#88419D</color>
-    <color>#6E16B</color>
-    </color-palette>
-
-    <color-palette name="BuPu-8" type="ordered-sequential" >
-    <color>#F7FCFD</color>
-    <color>#E0ECF4</color>
-    <color>#BFD3E6</color>
-    <color>#9EBCDA</color>
-    <color>#8C96C6</color>
-    <color>#8C6BB1</color>
-    <color>#88419D</color>
-    <color>#6E16B</color>
-    </color-palette>
-
-    <color-palette name="BuPu-9" type="ordered-sequential" >
-    <color>#F7FCFD</color>
-    <color>#E0ECF4</color>
-    <color>#BFD3E6</color>
-    <color>#9EBCDA</color>
-    <color>#8C96C6</color>
-    <color>#8C6BB1</color>
-    <color>#88419D</color>
-    <color>#81F7C</color>
-    <color>#4D04B</color>
-    </color-palette>
-
-    <color-palette name="Dark2-3" type="regular" >
-    <color>#1B9E77</color>
-    <color>#D95F2</color>
-    <color>#7570B3</color>
-    </color-palette>
-
-    <color-palette name="Dark2-4" type="regular" >
-    <color>#1B9E77</color>
-    <color>#D95F2</color>
-    <color>#7570B3</color>
-    <color>#E7298A</color>
-    </color-palette>
-
-    <color-palette name="Dark2-5" type="regular" >
-    <color>#1B9E77</color>
-    <color>#D95F2</color>
-    <color>#7570B3</color>
-    <color>#E7298A</color>
-    <color>#66A61E</color>
-    </color-palette>
-
-    <color-palette name="Dark2-6" type="regular" >
-    <color>#1B9E77</color>
-    <color>#D95F2</color>
-    <color>#7570B3</color>
-    <color>#E7298A</color>
-    <color>#66A61E</color>
-    <color>#E6AB2</color>
-    </color-palette>
-
-    <color-palette name="Dark2-7" type="regular" >
-    <color>#1B9E77</color>
-    <color>#D95F2</color>
-    <color>#7570B3</color>
-    <color>#E7298A</color>
-    <color>#66A61E</color>
-    <color>#E6AB2</color>
-    <color>#A6761D</color>
-    </color-palette>
-
-    <color-palette name="Dark2-8" type="regular" >
-    <color>#1B9E77</color>
-    <color>#D95F2</color>
-    <color>#7570B3</color>
-    <color>#E7298A</color>
-    <color>#66A61E</color>
-    <color>#E6AB2</color>
-    <color>#A6761D</color>
-    <color>#666666</color>
-    </color-palette>
-
-    <color-palette name="GnBu-3" type="ordered-sequential" >
-    <color>#E0F3DB</color>
-    <color>#A8DDB5</color>
-    <color>#43A2CA</color>
-    </color-palette>
-
-    <color-palette name="GnBu-4" type="ordered-sequential" >
-    <color>#F0F9E8</color>
-    <color>#BAE4BC</color>
-    <color>#7BCCC4</color>
-    <color>#2B8CBE</color>
-    </color-palette>
-
-    <color-palette name="GnBu-5" type="ordered-sequential" >
-    <color>#F0F9E8</color>
-    <color>#BAE4BC</color>
-    <color>#7BCCC4</color>
-    <color>#43A2CA</color>
-    <color>#868AC</color>
-    </color-palette>
-
-    <color-palette name="GnBu-6" type="ordered-sequential" >
-    <color>#F0F9E8</color>
-    <color>#CCEBC5</color>
-    <color>#A8DDB5</color>
-    <color>#7BCCC4</color>
-    <color>#43A2CA</color>
-    <color>#868AC</color>
-    </color-palette>
-
-    <color-palette name="GnBu-7" type="ordered-sequential" >
-    <color>#F0F9E8</color>
-    <color>#CCEBC5</color>
-    <color>#A8DDB5</color>
-    <color>#7BCCC4</color>
-    <color>#4EB3D3</color>
-    <color>#2B8CBE</color>
-    <color>#8589E</color>
-    </color-palette>
-
-    <color-palette name="GnBu-8" type="ordered-sequential" >
-    <color>#F7FCF0</color>
-    <color>#E0F3DB</color>
-    <color>#CCEBC5</color>
-    <color>#A8DDB5</color>
-    <color>#7BCCC4</color>
-    <color>#4EB3D3</color>
-    <color>#2B8CBE</color>
-    <color>#8589E</color>
-    </color-palette>
-
-    <color-palette name="GnBu-9" type="ordered-sequential" >
-    <color>#F7FCF0</color>
-    <color>#E0F3DB</color>
-    <color>#CCEBC5</color>
-    <color>#A8DDB5</color>
-    <color>#7BCCC4</color>
-    <color>#4EB3D3</color>
-    <color>#2B8CBE</color>
-    <color>#868AC</color>
-    <color>#84081</color>
-    </color-palette>
-
-    <color-palette name="Greens-3" type="ordered-sequential" >
-    <color>#E5F5E0</color>
-    <color>#A1D99B</color>
-    <color>#31A354</color>
-    </color-palette>
-
-    <color-palette name="Greens-4" type="ordered-sequential" >
-    <color>#EDF8E9</color>
-    <color>#BAE4B3</color>
-    <color>#74C476</color>
-    <color>#238B45</color>
-    </color-palette>
-
-    <color-palette name="Greens-5" type="ordered-sequential" >
-    <color>#EDF8E9</color>
-    <color>#BAE4B3</color>
-    <color>#74C476</color>
-    <color>#31A354</color>
-    <color>#06D2C</color>
-    </color-palette>
-
-    <color-palette name="Greens-6" type="ordered-sequential" >
-    <color>#EDF8E9</color>
-    <color>#C7E9C0</color>
-    <color>#A1D99B</color>
-    <color>#74C476</color>
-    <color>#31A354</color>
-    <color>#06D2C</color>
-    </color-palette>
-
-    <color-palette name="Greens-7" type="ordered-sequential" >
-    <color>#EDF8E9</color>
-    <color>#C7E9C0</color>
-    <color>#A1D99B</color>
-    <color>#74C476</color>
-    <color>#41AB5D</color>
-    <color>#238B45</color>
-    <color>#05A32</color>
-    </color-palette>
-
-    <color-palette name="Greens-8" type="ordered-sequential" >
-    <color>#F7FCF5</color>
-    <color>#E5F5E0</color>
-    <color>#C7E9C0</color>
-    <color>#A1D99B</color>
-    <color>#74C476</color>
-    <color>#41AB5D</color>
-    <color>#238B45</color>
-    <color>#05A32</color>
-    </color-palette>
-
-    <color-palette name="Greens-9" type="ordered-sequential" >
-    <color>#F7FCF5</color>
-    <color>#E5F5E0</color>
-    <color>#C7E9C0</color>
-    <color>#A1D99B</color>
-    <color>#74C476</color>
-    <color>#41AB5D</color>
-    <color>#238B45</color>
-    <color>#06D2C</color>
-    <color>#0441B</color>
-    </color-palette>
-
-    <color-palette name="Greys-3" type="ordered-sequential" >
-    <color>#F0F0F0</color>
-    <color>#BDBDBD</color>
-    <color>#636363</color>
-    </color-palette>
-
-    <color-palette name="Greys-4" type="ordered-sequential" >
-    <color>#F7F7F7</color>
-    <color>#CCCCCC</color>
-    <color>#969696</color>
-    <color>#525252</color>
-    </color-palette>
-
-    <color-palette name="Greys-5" type="ordered-sequential" >
-    <color>#F7F7F7</color>
-    <color>#CCCCCC</color>
-    <color>#969696</color>
-    <color>#636363</color>
-    <color>#252525</color>
-    </color-palette>
-
-    <color-palette name="Greys-6" type="ordered-sequential" >
-    <color>#F7F7F7</color>
-    <color>#D9D9D9</color>
-    <color>#BDBDBD</color>
-    <color>#969696</color>
-    <color>#636363</color>
-    <color>#252525</color>
-    </color-palette>
-
-    <color-palette name="Greys-7" type="ordered-sequential" >
-    <color>#F7F7F7</color>
-    <color>#D9D9D9</color>
-    <color>#BDBDBD</color>
-    <color>#969696</color>
-    <color>#737373</color>
-    <color>#525252</color>
-    <color>#252525</color>
-    </color-palette>
-
-    <color-palette name="Greys-8" type="ordered-sequential" >
-    <color>#FFFFFF</color>
-    <color>#F0F0F0</color>
-    <color>#D9D9D9</color>
-    <color>#BDBDBD</color>
-    <color>#969696</color>
-    <color>#737373</color>
-    <color>#525252</color>
-    <color>#252525</color>
-    </color-palette>
-
-    <color-palette name="Greys-9" type="ordered-sequential" >
-    <color>#FFFFFF</color>
-    <color>#F0F0F0</color>
-    <color>#D9D9D9</color>
-    <color>#BDBDBD</color>
-    <color>#969696</color>
-    <color>#737373</color>
-    <color>#525252</color>
-    <color>#252525</color>
-    <color>#000</color>
-    </color-palette>
-
-    <color-palette name="Oranges-3" type="ordered-sequential" >
-    <color>#FEE6CE</color>
-    <color>#FDAE6B</color>
-    <color>#E655D</color>
-    </color-palette>
-
-    <color-palette name="Oranges-4" type="ordered-sequential" >
-    <color>#FEEDDE</color>
-    <color>#FDBE85</color>
-    <color>#FD8D3C</color>
-    <color>#D9471</color>
-    </color-palette>
-
-    <color-palette name="Oranges-5" type="ordered-sequential" >
-    <color>#FEEDDE</color>
-    <color>#FDBE85</color>
-    <color>#FD8D3C</color>
-    <color>#E655D</color>
-    <color>#A6363</color>
-    </color-palette>
-
-    <color-palette name="Oranges-6" type="ordered-sequential" >
-    <color>#FEEDDE</color>
-    <color>#FDD0A2</color>
-    <color>#FDAE6B</color>
-    <color>#FD8D3C</color>
-    <color>#E655D</color>
-    <color>#A6363</color>
-    </color-palette>
-
-    <color-palette name="Oranges-7" type="ordered-sequential" >
-    <color>#FEEDDE</color>
-    <color>#FDD0A2</color>
-    <color>#FDAE6B</color>
-    <color>#FD8D3C</color>
-    <color>#F16913</color>
-    <color>#D9481</color>
-    <color>#8C2D4</color>
-    </color-palette>
-
-    <color-palette name="Oranges-8" type="ordered-sequential" >
-    <color>#FFF5EB</color>
-    <color>#FEE6CE</color>
-    <color>#FDD0A2</color>
-    <color>#FDAE6B</color>
-    <color>#FD8D3C</color>
-    <color>#F16913</color>
-    <color>#D9481</color>
-    <color>#8C2D4</color>
-    </color-palette>
-
-    <color-palette name="Oranges-9" type="ordered-sequential" >
-    <color>#FFF5EB</color>
-    <color>#FEE6CE</color>
-    <color>#FDD0A2</color>
-    <color>#FDAE6B</color>
-    <color>#FD8D3C</color>
-    <color>#F16913</color>
-    <color>#D9481</color>
-    <color>#A6363</color>
-    <color>#7F274</color>
-    </color-palette>
-
-    <color-palette name="OrRd-3" type="ordered-sequential" >
-    <color>#FEE8C8</color>
-    <color>#FDBB84</color>
-    <color>#E34A33</color>
-    </color-palette>
-
-    <color-palette name="OrRd-4" type="ordered-sequential" >
-    <color>#FEF0D9</color>
-    <color>#FDCC8A</color>
-    <color>#FC8D59</color>
-    <color>#D7301F</color>
-    </color-palette>
-
-    <color-palette name="OrRd-5" type="ordered-sequential" >
-    <color>#FEF0D9</color>
-    <color>#FDCC8A</color>
-    <color>#FC8D59</color>
-    <color>#E34A33</color>
-    <color>#B300</color>
-    </color-palette>
-
-    <color-palette name="OrRd-6" type="ordered-sequential" >
-    <color>#FEF0D9</color>
-    <color>#FDD49E</color>
-    <color>#FDBB84</color>
-    <color>#FC8D59</color>
-    <color>#E34A33</color>
-    <color>#B300</color>
-    </color-palette>
-
-    <color-palette name="OrRd-7" type="ordered-sequential" >
-    <color>#FEF0D9</color>
-    <color>#FDD49E</color>
-    <color>#FDBB84</color>
-    <color>#FC8D59</color>
-    <color>#EF6548</color>
-    <color>#D7301F</color>
-    <color>#9900</color>
-    </color-palette>
-
-    <color-palette name="OrRd-8" type="ordered-sequential" >
-    <color>#FFF7EC</color>
-    <color>#FEE8C8</color>
-    <color>#FDD49E</color>
-    <color>#FDBB84</color>
-    <color>#FC8D59</color>
-    <color>#EF6548</color>
-    <color>#D7301F</color>
-    <color>#9900</color>
-    </color-palette>
-
-    <color-palette name="OrRd-9" type="ordered-sequential" >
-    <color>#FFF7EC</color>
-    <color>#FEE8C8</color>
-    <color>#FDD49E</color>
-    <color>#FDBB84</color>
-    <color>#FC8D59</color>
-    <color>#EF6548</color>
-    <color>#D7301F</color>
-    <color>#B300</color>
-    <color>#7F00</color>
-    </color-palette>
-
-    <color-palette name="Paired-3" type="regular" >
-    <color>#A6CEE3</color>
-    <color>#1F78B4</color>
-    <color>#B2DF8A</color>
-    </color-palette>
-
-    <color-palette name="Paired-4" type="regular" >
-    <color>#A6CEE3</color>
-    <color>#1F78B4</color>
-    <color>#B2DF8A</color>
-    <color>#33A02C</color>
-    </color-palette>
-
-    <color-palette name="Paired-5" type="regular" >
-    <color>#A6CEE3</color>
-    <color>#1F78B4</color>
-    <color>#B2DF8A</color>
-    <color>#33A02C</color>
-    <color>#FB9A99</color>
-    </color-palette>
-
-    <color-palette name="Paired-6" type="regular" >
-    <color>#A6CEE3</color>
-    <color>#1F78B4</color>
-    <color>#B2DF8A</color>
-    <color>#33A02C</color>
-    <color>#FB9A99</color>
-    <color>#E31A1C</color>
-    </color-palette>
-
-    <color-palette name="Paired-7" type="regular" >
-    <color>#A6CEE3</color>
-    <color>#1F78B4</color>
-    <color>#B2DF8A</color>
-    <color>#33A02C</color>
-    <color>#FB9A99</color>
-    <color>#E31A1C</color>
-    <color>#FDBF6F</color>
-    </color-palette>
-
-    <color-palette name="Paired-8" type="regular" >
-    <color>#A6CEE3</color>
-    <color>#1F78B4</color>
-    <color>#B2DF8A</color>
-    <color>#33A02C</color>
-    <color>#FB9A99</color>
-    <color>#E31A1C</color>
-    <color>#FDBF6F</color>
-    <color>#FF7F0</color>
-    </color-palette>
-
-    <color-palette name="Paired-9" type="regular" >
-    <color>#A6CEE3</color>
-    <color>#1F78B4</color>
-    <color>#B2DF8A</color>
-    <color>#33A02C</color>
-    <color>#FB9A99</color>
-    <color>#E31A1C</color>
-    <color>#FDBF6F</color>
-    <color>#FF7F0</color>
-    <color>#CAB2D6</color>
-    </color-palette>
-
-    <color-palette name="Paired-10" type="regular" >
-    <color>#A6CEE3</color>
-    <color>#1F78B4</color>
-    <color>#B2DF8A</color>
-    <color>#33A02C</color>
-    <color>#FB9A99</color>
-    <color>#E31A1C</color>
-    <color>#FDBF6F</color>
-    <color>#FF7F0</color>
-    <color>#CAB2D6</color>
-    <color>#6A3D9A</color>
-    </color-palette>
-
-    <color-palette name="Paired-11" type="regular" >
-    <color>#A6CEE3</color>
-    <color>#1F78B4</color>
-    <color>#B2DF8A</color>
-    <color>#33A02C</color>
-    <color>#FB9A99</color>
-    <color>#E31A1C</color>
-    <color>#FDBF6F</color>
-    <color>#FF7F0</color>
-    <color>#CAB2D6</color>
-    <color>#6A3D9A</color>
-    <color>#FFFF99</color>
-    </color-palette>
-
-    <color-palette name="Paired-12" type="regular" >
-    <color>#A6CEE3</color>
-    <color>#1F78B4</color>
-    <color>#B2DF8A</color>
-    <color>#33A02C</color>
-    <color>#FB9A99</color>
-    <color>#E31A1C</color>
-    <color>#FDBF6F</color>
-    <color>#FF7F0</color>
-    <color>#CAB2D6</color>
-    <color>#6A3D9A</color>
-    <color>#FFFF99</color>
-    <color>#B15928</color>
-    </color-palette>
-
-    <color-palette name="Pastel1-3" type="regular" >
-    <color>#FBB4AE</color>
-    <color>#B3CDE3</color>
-    <color>#CCEBC5</color>
-    </color-palette>
-
-    <color-palette name="Pastel1-4" type="regular" >
-    <color>#FBB4AE</color>
-    <color>#B3CDE3</color>
-    <color>#CCEBC5</color>
-    <color>#DECBE4</color>
-    </color-palette>
-
-    <color-palette name="Pastel1-5" type="regular" >
-    <color>#FBB4AE</color>
-    <color>#B3CDE3</color>
-    <color>#CCEBC5</color>
-    <color>#DECBE4</color>
-    <color>#FED9A6</color>
-    </color-palette>
-
-    <color-palette name="Pastel1-6" type="regular" >
-    <color>#FBB4AE</color>
-    <color>#B3CDE3</color>
-    <color>#CCEBC5</color>
-    <color>#DECBE4</color>
-    <color>#FED9A6</color>
-    <color>#FFFFCC</color>
-    </color-palette>
-
-    <color-palette name="Pastel1-7" type="regular" >
-    <color>#FBB4AE</color>
-    <color>#B3CDE3</color>
-    <color>#CCEBC5</color>
-    <color>#DECBE4</color>
-    <color>#FED9A6</color>
-    <color>#FFFFCC</color>
-    <color>#E5D8BD</color>
-    </color-palette>
-
-    <color-palette name="Pastel1-8" type="regular" >
-    <color>#FBB4AE</color>
-    <color>#B3CDE3</color>
-    <color>#CCEBC5</color>
-    <color>#DECBE4</color>
-    <color>#FED9A6</color>
-    <color>#FFFFCC</color>
-    <color>#E5D8BD</color>
-    <color>#FDDAEC</color>
-    </color-palette>
-
-    <color-palette name="Pastel1-9" type="regular" >
-    <color>#FBB4AE</color>
-    <color>#B3CDE3</color>
-    <color>#CCEBC5</color>
-    <color>#DECBE4</color>
-    <color>#FED9A6</color>
-    <color>#FFFFCC</color>
-    <color>#E5D8BD</color>
-    <color>#FDDAEC</color>
-    <color>#F2F2F2</color>
-    </color-palette>
-
-    <color-palette name="Pastel2-3" type="regular" >
-    <color>#B3E2CD</color>
-    <color>#FDCDAC</color>
-    <color>#CBD5E8</color>
-    </color-palette>
-
-    <color-palette name="Pastel2-4" type="regular" >
-    <color>#B3E2CD</color>
-    <color>#FDCDAC</color>
-    <color>#CBD5E8</color>
-    <color>#F4CAE4</color>
-    </color-palette>
-
-    <color-palette name="Pastel2-5" type="regular" >
-    <color>#B3E2CD</color>
-    <color>#FDCDAC</color>
-    <color>#CBD5E8</color>
-    <color>#F4CAE4</color>
-    <color>#E6F5C9</color>
-    </color-palette>
-
-    <color-palette name="Pastel2-6" type="regular" >
-    <color>#B3E2CD</color>
-    <color>#FDCDAC</color>
-    <color>#CBD5E8</color>
-    <color>#F4CAE4</color>
-    <color>#E6F5C9</color>
-    <color>#FFF2AE</color>
-    </color-palette>
-
-    <color-palette name="Pastel2-7" type="regular" >
-    <color>#B3E2CD</color>
-    <color>#FDCDAC</color>
-    <color>#CBD5E8</color>
-    <color>#F4CAE4</color>
-    <color>#E6F5C9</color>
-    <color>#FFF2AE</color>
-    <color>#F1E2CC</color>
-    </color-palette>
-
-    <color-palette name="Pastel2-8" type="regular" >
-    <color>#B3E2CD</color>
-    <color>#FDCDAC</color>
-    <color>#CBD5E8</color>
-    <color>#F4CAE4</color>
-    <color>#E6F5C9</color>
-    <color>#FFF2AE</color>
-    <color>#F1E2CC</color>
-    <color>#CCCCCC</color>
-    </color-palette>
-
-    <color-palette name="PiYG-3" type="ordered-diverging" >
-    <color>#E9A3C9</color>
-    <color>#F7F7F7</color>
-    <color>#A1D76A</color>
-    </color-palette>
-
-    <color-palette name="PiYG-4" type="ordered-diverging" >
-    <color>#D01C8B</color>
-    <color>#F1B6DA</color>
-    <color>#B8E186</color>
-    <color>#4DAC26</color>
-    </color-palette>
-
-    <color-palette name="PiYG-5" type="ordered-diverging" >
-    <color>#D01C8B</color>
-    <color>#F1B6DA</color>
-    <color>#F7F7F7</color>
-    <color>#B8E186</color>
-    <color>#4DAC26</color>
-    </color-palette>
-
-    <color-palette name="PiYG-6" type="ordered-diverging" >
-    <color>#C51B7D</color>
-    <color>#E9A3C9</color>
-    <color>#FDE0EF</color>
-    <color>#E6F5D0</color>
-    <color>#A1D76A</color>
-    <color>#4D9221</color>
-    </color-palette>
-
-    <color-palette name="PiYG-7" type="ordered-diverging" >
-    <color>#C51B7D</color>
-    <color>#E9A3C9</color>
-    <color>#FDE0EF</color>
-    <color>#F7F7F7</color>
-    <color>#E6F5D0</color>
-    <color>#A1D76A</color>
-    <color>#4D9221</color>
-    </color-palette>
-
-    <color-palette name="PiYG-8" type="ordered-diverging" >
-    <color>#C51B7D</color>
-    <color>#DE77AE</color>
-    <color>#F1B6DA</color>
-    <color>#FDE0EF</color>
-    <color>#E6F5D0</color>
-    <color>#B8E186</color>
-    <color>#7FBC41</color>
-    <color>#4D9221</color>
-    </color-palette>
-
-    <color-palette name="PiYG-9" type="ordered-diverging" >
-    <color>#C51B7D</color>
-    <color>#DE77AE</color>
-    <color>#F1B6DA</color>
-    <color>#FDE0EF</color>
-    <color>#F7F7F7</color>
-    <color>#E6F5D0</color>
-    <color>#B8E186</color>
-    <color>#7FBC41</color>
-    <color>#4D9221</color>
-    </color-palette>
-
-    <color-palette name="PiYG-10" type="ordered-diverging" >
-    <color>#8E152</color>
-    <color>#C51B7D</color>
-    <color>#DE77AE</color>
-    <color>#F1B6DA</color>
-    <color>#FDE0EF</color>
-    <color>#E6F5D0</color>
-    <color>#B8E186</color>
-    <color>#7FBC41</color>
-    <color>#4D9221</color>
-    <color>#276419</color>
-    </color-palette>
-
-    <color-palette name="PiYG-11" type="ordered-diverging" >
-    <color>#8E152</color>
-    <color>#C51B7D</color>
-    <color>#DE77AE</color>
-    <color>#F1B6DA</color>
-    <color>#FDE0EF</color>
-    <color>#F7F7F7</color>
-    <color>#E6F5D0</color>
-    <color>#B8E186</color>
-    <color>#7FBC41</color>
-    <color>#4D9221</color>
-    <color>#276419</color>
-    </color-palette>
-
-    <color-palette name="PRGn-3" type="ordered-diverging" >
-    <color>#AF8DC3</color>
-    <color>#F7F7F7</color>
-    <color>#7FBF7B</color>
-    </color-palette>
-
-    <color-palette name="PRGn-4" type="ordered-diverging" >
-    <color>#7B3294</color>
-    <color>#C2A5CF</color>
-    <color>#A6DBA0</color>
-    <color>#08837</color>
-    </color-palette>
-
-    <color-palette name="PRGn-5" type="ordered-diverging" >
-    <color>#7B3294</color>
-    <color>#C2A5CF</color>
-    <color>#F7F7F7</color>
-    <color>#A6DBA0</color>
-    <color>#08837</color>
-    </color-palette>
-
-    <color-palette name="PRGn-6" type="ordered-diverging" >
-    <color>#762A83</color>
-    <color>#AF8DC3</color>
-    <color>#E7D4E8</color>
-    <color>#D9F0D3</color>
-    <color>#7FBF7B</color>
-    <color>#1B7837</color>
-    </color-palette>
-
-    <color-palette name="PRGn-7" type="ordered-diverging" >
-    <color>#762A83</color>
-    <color>#AF8DC3</color>
-    <color>#E7D4E8</color>
-    <color>#F7F7F7</color>
-    <color>#D9F0D3</color>
-    <color>#7FBF7B</color>
-    <color>#1B7837</color>
-    </color-palette>
-
-    <color-palette name="PRGn-8" type="ordered-diverging" >
-    <color>#762A83</color>
-    <color>#9970AB</color>
-    <color>#C2A5CF</color>
-    <color>#E7D4E8</color>
-    <color>#D9F0D3</color>
-    <color>#A6DBA0</color>
-    <color>#5AAE61</color>
-    <color>#1B7837</color>
-    </color-palette>
-
-    <color-palette name="PRGn-9" type="ordered-diverging" >
-    <color>#762A83</color>
-    <color>#9970AB</color>
-    <color>#C2A5CF</color>
-    <color>#E7D4E8</color>
-    <color>#F7F7F7</color>
-    <color>#D9F0D3</color>
-    <color>#A6DBA0</color>
-    <color>#5AAE61</color>
-    <color>#1B7837</color>
-    </color-palette>
-
-    <color-palette name="PRGn-10" type="ordered-diverging" >
-    <color>#4004B</color>
-    <color>#762A83</color>
-    <color>#9970AB</color>
-    <color>#C2A5CF</color>
-    <color>#E7D4E8</color>
-    <color>#D9F0D3</color>
-    <color>#A6DBA0</color>
-    <color>#5AAE61</color>
-    <color>#1B7837</color>
-    <color>#0441B</color>
-    </color-palette>
-
-    <color-palette name="PRGn-11" type="ordered-diverging" >
-    <color>#4004B</color>
-    <color>#762A83</color>
-    <color>#9970AB</color>
-    <color>#C2A5CF</color>
-    <color>#E7D4E8</color>
-    <color>#F7F7F7</color>
-    <color>#D9F0D3</color>
-    <color>#A6DBA0</color>
-    <color>#5AAE61</color>
-    <color>#1B7837</color>
-    <color>#0441B</color>
-    </color-palette>
-
-    <color-palette name="PuBu-3" type="ordered-sequential" >
-    <color>#ECE7F2</color>
-    <color>#A6BDDB</color>
-    <color>#2B8CBE</color>
-    </color-palette>
-
-    <color-palette name="PuBu-4" type="ordered-sequential" >
-    <color>#F1EEF6</color>
-    <color>#BDC9E1</color>
-    <color>#74A9CF</color>
-    <color>#570B0</color>
-    </color-palette>
-
-    <color-palette name="PuBu-5" type="ordered-sequential" >
-    <color>#F1EEF6</color>
-    <color>#BDC9E1</color>
-    <color>#74A9CF</color>
-    <color>#2B8CBE</color>
-    <color>#45A8D</color>
-    </color-palette>
-
-    <color-palette name="PuBu-6" type="ordered-sequential" >
-    <color>#F1EEF6</color>
-    <color>#D0D1E6</color>
-    <color>#A6BDDB</color>
-    <color>#74A9CF</color>
-    <color>#2B8CBE</color>
-    <color>#45A8D</color>
-    </color-palette>
-
-    <color-palette name="PuBu-7" type="ordered-sequential" >
-    <color>#F1EEF6</color>
-    <color>#D0D1E6</color>
-    <color>#A6BDDB</color>
-    <color>#74A9CF</color>
-    <color>#3690C0</color>
-    <color>#570B0</color>
-    <color>#34E7B</color>
-    </color-palette>
-
-    <color-palette name="PuBu-8" type="ordered-sequential" >
-    <color>#FFF7FB</color>
-    <color>#ECE7F2</color>
-    <color>#D0D1E6</color>
-    <color>#A6BDDB</color>
-    <color>#74A9CF</color>
-    <color>#3690C0</color>
-    <color>#570B0</color>
-    <color>#34E7B</color>
-    </color-palette>
-
-    <color-palette name="PuBu-9" type="ordered-sequential" >
-    <color>#FFF7FB</color>
-    <color>#ECE7F2</color>
-    <color>#D0D1E6</color>
-    <color>#A6BDDB</color>
-    <color>#74A9CF</color>
-    <color>#3690C0</color>
-    <color>#570B0</color>
-    <color>#45A8D</color>
-    <color>#23858</color>
-    </color-palette>
-
-    <color-palette name="PuBuGn-3" type="ordered-sequential" >
-    <color>#ECE2F0</color>
-    <color>#A6BDDB</color>
-    <color>#1C9099</color>
-    </color-palette>
-
-    <color-palette name="PuBuGn-4" type="ordered-sequential" >
-    <color>#F6EFF7</color>
-    <color>#BDC9E1</color>
-    <color>#67A9CF</color>
-    <color>#2818A</color>
-    </color-palette>
-
-    <color-palette name="PuBuGn-5" type="ordered-sequential" >
-    <color>#F6EFF7</color>
-    <color>#BDC9E1</color>
-    <color>#67A9CF</color>
-    <color>#1C9099</color>
-    <color>#16C59</color>
-    </color-palette>
-
-    <color-palette name="PuBuGn-6" type="ordered-sequential" >
-    <color>#F6EFF7</color>
-    <color>#D0D1E6</color>
-    <color>#A6BDDB</color>
-    <color>#67A9CF</color>
-    <color>#1C9099</color>
-    <color>#16C59</color>
-    </color-palette>
-
-    <color-palette name="PuBuGn-7" type="ordered-sequential" >
-    <color>#F6EFF7</color>
-    <color>#D0D1E6</color>
-    <color>#A6BDDB</color>
-    <color>#67A9CF</color>
-    <color>#3690C0</color>
-    <color>#2818A</color>
-    <color>#16450</color>
-    </color-palette>
-
-    <color-palette name="PuBuGn-8" type="ordered-sequential" >
-    <color>#FFF7FB</color>
-    <color>#ECE2F0</color>
-    <color>#D0D1E6</color>
-    <color>#A6BDDB</color>
-    <color>#67A9CF</color>
-    <color>#3690C0</color>
-    <color>#2818A</color>
-    <color>#16450</color>
-    </color-palette>
-
-    <color-palette name="PuBuGn-9" type="ordered-sequential" >
-    <color>#FFF7FB</color>
-    <color>#ECE2F0</color>
-    <color>#D0D1E6</color>
-    <color>#A6BDDB</color>
-    <color>#67A9CF</color>
-    <color>#3690C0</color>
-    <color>#2818A</color>
-    <color>#16C59</color>
-    <color>#14636</color>
-    </color-palette>
-
-    <color-palette name="PuOr-3" type="ordered-diverging" >
-    <color>#F1A340</color>
-    <color>#F7F7F7</color>
-    <color>#998EC3</color>
-    </color-palette>
-
-    <color-palette name="PuOr-4" type="ordered-diverging" >
-    <color>#E6611</color>
-    <color>#FDB863</color>
-    <color>#B2ABD2</color>
-    <color>#5E3C99</color>
-    </color-palette>
-
-    <color-palette name="PuOr-5" type="ordered-diverging" >
-    <color>#E6611</color>
-    <color>#FDB863</color>
-    <color>#F7F7F7</color>
-    <color>#B2ABD2</color>
-    <color>#5E3C99</color>
-    </color-palette>
-
-    <color-palette name="PuOr-6" type="ordered-diverging" >
-    <color>#B3586</color>
-    <color>#F1A340</color>
-    <color>#FEE0B6</color>
-    <color>#D8DAEB</color>
-    <color>#998EC3</color>
-    <color>#542788</color>
-    </color-palette>
-
-    <color-palette name="PuOr-7" type="ordered-diverging" >
-    <color>#B3586</color>
-    <color>#F1A340</color>
-    <color>#FEE0B6</color>
-    <color>#F7F7F7</color>
-    <color>#D8DAEB</color>
-    <color>#998EC3</color>
-    <color>#542788</color>
-    </color-palette>
-
-    <color-palette name="PuOr-8" type="ordered-diverging" >
-    <color>#B3586</color>
-    <color>#E08214</color>
-    <color>#FDB863</color>
-    <color>#FEE0B6</color>
-    <color>#D8DAEB</color>
-    <color>#B2ABD2</color>
-    <color>#8073AC</color>
-    <color>#542788</color>
-    </color-palette>
-
-    <color-palette name="PuOr-9" type="ordered-diverging" >
-    <color>#B3586</color>
-    <color>#E08214</color>
-    <color>#FDB863</color>
-    <color>#FEE0B6</color>
-    <color>#F7F7F7</color>
-    <color>#D8DAEB</color>
-    <color>#B2ABD2</color>
-    <color>#8073AC</color>
-    <color>#542788</color>
-    </color-palette>
-
-    <color-palette name="PuOr-10" type="ordered-diverging" >
-    <color>#7F3B8</color>
-    <color>#B3586</color>
-    <color>#E08214</color>
-    <color>#FDB863</color>
-    <color>#FEE0B6</color>
-    <color>#D8DAEB</color>
-    <color>#B2ABD2</color>
-    <color>#8073AC</color>
-    <color>#542788</color>
-    <color>#2D04B</color>
-    </color-palette>
-
-    <color-palette name="PuOr-11" type="ordered-diverging" >
-    <color>#7F3B8</color>
-    <color>#B3586</color>
-    <color>#E08214</color>
-    <color>#FDB863</color>
-    <color>#FEE0B6</color>
-    <color>#F7F7F7</color>
-    <color>#D8DAEB</color>
-    <color>#B2ABD2</color>
-    <color>#8073AC</color>
-    <color>#542788</color>
-    <color>#2D04B</color>
-    </color-palette>
-
-    <color-palette name="PuRd-3" type="ordered-sequential" >
-    <color>#E7E1EF</color>
-    <color>#C994C7</color>
-    <color>#DD1C77</color>
-    </color-palette>
-
-    <color-palette name="PuRd-4" type="ordered-sequential" >
-    <color>#F1EEF6</color>
-    <color>#D7B5D8</color>
-    <color>#DF65B0</color>
-    <color>#CE1256</color>
-    </color-palette>
-
-    <color-palette name="PuRd-5" type="ordered-sequential" >
-    <color>#F1EEF6</color>
-    <color>#D7B5D8</color>
-    <color>#DF65B0</color>
-    <color>#DD1C77</color>
-    <color>#98043</color>
-    </color-palette>
-
-    <color-palette name="PuRd-6" type="ordered-sequential" >
-    <color>#F1EEF6</color>
-    <color>#D4B9DA</color>
-    <color>#C994C7</color>
-    <color>#DF65B0</color>
-    <color>#DD1C77</color>
-    <color>#98043</color>
-    </color-palette>
-
-    <color-palette name="PuRd-7" type="ordered-sequential" >
-    <color>#F1EEF6</color>
-    <color>#D4B9DA</color>
-    <color>#C994C7</color>
-    <color>#DF65B0</color>
-    <color>#E7298A</color>
-    <color>#CE1256</color>
-    <color>#9103F</color>
-    </color-palette>
-
-    <color-palette name="PuRd-8" type="ordered-sequential" >
-    <color>#F7F4F9</color>
-    <color>#E7E1EF</color>
-    <color>#D4B9DA</color>
-    <color>#C994C7</color>
-    <color>#DF65B0</color>
-    <color>#E7298A</color>
-    <color>#CE1256</color>
-    <color>#9103F</color>
-    </color-palette>
-
-    <color-palette name="PuRd-9" type="ordered-sequential" >
-    <color>#F7F4F9</color>
-    <color>#E7E1EF</color>
-    <color>#D4B9DA</color>
-    <color>#C994C7</color>
-    <color>#DF65B0</color>
-    <color>#E7298A</color>
-    <color>#CE1256</color>
-    <color>#98043</color>
-    <color>#6701F</color>
-    </color-palette>
-
-    <color-palette name="Purples-3" type="ordered-sequential" >
-    <color>#EFEDF5</color>
-    <color>#BCBDDC</color>
-    <color>#756BB1</color>
-    </color-palette>
-
-    <color-palette name="Purples-4" type="ordered-sequential" >
-    <color>#F2F0F7</color>
-    <color>#CBC9E2</color>
-    <color>#9E9AC8</color>
-    <color>#6A51A3</color>
-    </color-palette>
-
-    <color-palette name="Purples-5" type="ordered-sequential" >
-    <color>#F2F0F7</color>
-    <color>#CBC9E2</color>
-    <color>#9E9AC8</color>
-    <color>#756BB1</color>
-    <color>#54278F</color>
-    </color-palette>
-
-    <color-palette name="Purples-6" type="ordered-sequential" >
-    <color>#F2F0F7</color>
-    <color>#DADAEB</color>
-    <color>#BCBDDC</color>
-    <color>#9E9AC8</color>
-    <color>#756BB1</color>
-    <color>#54278F</color>
-    </color-palette>
-
-    <color-palette name="Purples-7" type="ordered-sequential" >
-    <color>#F2F0F7</color>
-    <color>#DADAEB</color>
-    <color>#BCBDDC</color>
-    <color>#9E9AC8</color>
-    <color>#807DBA</color>
-    <color>#6A51A3</color>
-    <color>#4A1486</color>
-    </color-palette>
-
-    <color-palette name="Purples-8" type="ordered-sequential" >
-    <color>#FCFBFD</color>
-    <color>#EFEDF5</color>
-    <color>#DADAEB</color>
-    <color>#BCBDDC</color>
-    <color>#9E9AC8</color>
-    <color>#807DBA</color>
-    <color>#6A51A3</color>
-    <color>#4A1486</color>
-    </color-palette>
-
-    <color-palette name="Purples-9" type="ordered-sequential" >
-    <color>#FCFBFD</color>
-    <color>#EFEDF5</color>
-    <color>#DADAEB</color>
-    <color>#BCBDDC</color>
-    <color>#9E9AC8</color>
-    <color>#807DBA</color>
-    <color>#6A51A3</color>
-    <color>#54278F</color>
-    <color>#3F07D</color>
-    </color-palette>
-
-    <color-palette name="RdBu-3" type="ordered-diverging" >
-    <color>#EF8A62</color>
-    <color>#F7F7F7</color>
-    <color>#67A9CF</color>
-    </color-palette>
-
-    <color-palette name="RdBu-4" type="ordered-diverging" >
-    <color>#CA020</color>
-    <color>#F4A582</color>
-    <color>#92C5DE</color>
-    <color>#571B0</color>
-    </color-palette>
-
-    <color-palette name="RdBu-5" type="ordered-diverging" >
-    <color>#CA020</color>
-    <color>#F4A582</color>
-    <color>#F7F7F7</color>
-    <color>#92C5DE</color>
-    <color>#571B0</color>
-    </color-palette>
-
-    <color-palette name="RdBu-6" type="ordered-diverging" >
-    <color>#B2182B</color>
-    <color>#EF8A62</color>
-    <color>#FDDBC7</color>
-    <color>#D1E5F0</color>
-    <color>#67A9CF</color>
-    <color>#2166AC</color>
-    </color-palette>
-
-    <color-palette name="RdBu-7" type="ordered-diverging" >
-    <color>#B2182B</color>
-    <color>#EF8A62</color>
-    <color>#FDDBC7</color>
-    <color>#F7F7F7</color>
-    <color>#D1E5F0</color>
-    <color>#67A9CF</color>
-    <color>#2166AC</color>
-    </color-palette>
-
-    <color-palette name="RdBu-8" type="ordered-diverging" >
-    <color>#B2182B</color>
-    <color>#D6604D</color>
-    <color>#F4A582</color>
-    <color>#FDDBC7</color>
-    <color>#D1E5F0</color>
-    <color>#92C5DE</color>
-    <color>#4393C3</color>
-    <color>#2166AC</color>
-    </color-palette>
-
-    <color-palette name="RdBu-9" type="ordered-diverging" >
-    <color>#B2182B</color>
-    <color>#D6604D</color>
-    <color>#F4A582</color>
-    <color>#FDDBC7</color>
-    <color>#F7F7F7</color>
-    <color>#D1E5F0</color>
-    <color>#92C5DE</color>
-    <color>#4393C3</color>
-    <color>#2166AC</color>
-    </color-palette>
-
-    <color-palette name="RdBu-10" type="ordered-diverging" >
-    <color>#6701F</color>
-    <color>#B2182B</color>
-    <color>#D6604D</color>
-    <color>#F4A582</color>
-    <color>#FDDBC7</color>
-    <color>#D1E5F0</color>
-    <color>#92C5DE</color>
-    <color>#4393C3</color>
-    <color>#2166AC</color>
-    <color>#53061</color>
-    </color-palette>
-
-    <color-palette name="RdBu-11" type="ordered-diverging" >
-    <color>#6701F</color>
-    <color>#B2182B</color>
-    <color>#D6604D</color>
-    <color>#F4A582</color>
-    <color>#FDDBC7</color>
-    <color>#F7F7F7</color>
-    <color>#D1E5F0</color>
-    <color>#92C5DE</color>
-    <color>#4393C3</color>
-    <color>#2166AC</color>
-    <color>#53061</color>
-    </color-palette>
-
-    <color-palette name="RdGy-3" type="ordered-diverging" >
-    <color>#EF8A62</color>
-    <color>#FFFFFF</color>
-    <color>#999999</color>
-    </color-palette>
-
-    <color-palette name="RdGy-4" type="ordered-diverging" >
-    <color>#CA020</color>
-    <color>#F4A582</color>
-    <color>#BABABA</color>
-    <color>#404040</color>
-    </color-palette>
-
-    <color-palette name="RdGy-5" type="ordered-diverging" >
-    <color>#CA020</color>
-    <color>#F4A582</color>
-    <color>#FFFFFF</color>
-    <color>#BABABA</color>
-    <color>#404040</color>
-    </color-palette>
-
-    <color-palette name="RdGy-6" type="ordered-diverging" >
-    <color>#B2182B</color>
-    <color>#EF8A62</color>
-    <color>#FDDBC7</color>
-    <color>#E0E0E0</color>
-    <color>#999999</color>
-    <color>#4D4D4D</color>
-    </color-palette>
-
-    <color-palette name="RdGy-7" type="ordered-diverging" >
-    <color>#B2182B</color>
-    <color>#EF8A62</color>
-    <color>#FDDBC7</color>
-    <color>#FFFFFF</color>
-    <color>#E0E0E0</color>
-    <color>#999999</color>
-    <color>#4D4D4D</color>
-    </color-palette>
-
-    <color-palette name="RdGy-8" type="ordered-diverging" >
-    <color>#B2182B</color>
-    <color>#D6604D</color>
-    <color>#F4A582</color>
-    <color>#FDDBC7</color>
-    <color>#E0E0E0</color>
-    <color>#BABABA</color>
-    <color>#878787</color>
-    <color>#4D4D4D</color>
-    </color-palette>
-
-    <color-palette name="RdGy-9" type="ordered-diverging" >
-    <color>#B2182B</color>
-    <color>#D6604D</color>
-    <color>#F4A582</color>
-    <color>#FDDBC7</color>
-    <color>#FFFFFF</color>
-    <color>#E0E0E0</color>
-    <color>#BABABA</color>
-    <color>#878787</color>
-    <color>#4D4D4D</color>
-    </color-palette>
-
-    <color-palette name="RdGy-10" type="ordered-diverging" >
-    <color>#6701F</color>
-    <color>#B2182B</color>
-    <color>#D6604D</color>
-    <color>#F4A582</color>
-    <color>#FDDBC7</color>
-    <color>#E0E0E0</color>
-    <color>#BABABA</color>
-    <color>#878787</color>
-    <color>#4D4D4D</color>
-    <color>#1A1A1A</color>
-    </color-palette>
-
-    <color-palette name="RdGy-11" type="ordered-diverging" >
-    <color>#6701F</color>
-    <color>#B2182B</color>
-    <color>#D6604D</color>
-    <color>#F4A582</color>
-    <color>#FDDBC7</color>
-    <color>#FFFFFF</color>
-    <color>#E0E0E0</color>
-    <color>#BABABA</color>
-    <color>#878787</color>
-    <color>#4D4D4D</color>
-    <color>#1A1A1A</color>
-    </color-palette>
-
-    <color-palette name="RdPu-3" type="ordered-sequential" >
-    <color>#FDE0DD</color>
-    <color>#FA9FB5</color>
-    <color>#C51B8A</color>
-    </color-palette>
-
-    <color-palette name="RdPu-4" type="ordered-sequential" >
-    <color>#FEEBE2</color>
-    <color>#FBB4B9</color>
-    <color>#F768A1</color>
-    <color>#AE17E</color>
-    </color-palette>
-
-    <color-palette name="RdPu-5" type="ordered-sequential" >
-    <color>#FEEBE2</color>
-    <color>#FBB4B9</color>
-    <color>#F768A1</color>
-    <color>#C51B8A</color>
-    <color>#7A177</color>
-    </color-palette>
-
-    <color-palette name="RdPu-6" type="ordered-sequential" >
-    <color>#FEEBE2</color>
-    <color>#FCC5C0</color>
-    <color>#FA9FB5</color>
-    <color>#F768A1</color>
-    <color>#C51B8A</color>
-    <color>#7A177</color>
-    </color-palette>
-
-    <color-palette name="RdPu-7" type="ordered-sequential" >
-    <color>#FEEBE2</color>
-    <color>#FCC5C0</color>
-    <color>#FA9FB5</color>
-    <color>#F768A1</color>
-    <color>#DD3497</color>
-    <color>#AE17E</color>
-    <color>#7A177</color>
-    </color-palette>
-
-    <color-palette name="RdPu-8" type="ordered-sequential" >
-    <color>#FFF7F3</color>
-    <color>#FDE0DD</color>
-    <color>#FCC5C0</color>
-    <color>#FA9FB5</color>
-    <color>#F768A1</color>
-    <color>#DD3497</color>
-    <color>#AE17E</color>
-    <color>#7A177</color>
-    </color-palette>
-
-    <color-palette name="RdPu-9" type="ordered-sequential" >
-    <color>#FFF7F3</color>
-    <color>#FDE0DD</color>
-    <color>#FCC5C0</color>
-    <color>#FA9FB5</color>
-    <color>#F768A1</color>
-    <color>#DD3497</color>
-    <color>#AE17E</color>
-    <color>#7A177</color>
-    <color>#4906A</color>
-    </color-palette>
-
-    <color-palette name="Reds-3" type="ordered-sequential" >
-    <color>#FEE0D2</color>
-    <color>#FC9272</color>
-    <color>#DE2D26</color>
-    </color-palette>
-
-    <color-palette name="Reds-4" type="ordered-sequential" >
-    <color>#FEE5D9</color>
-    <color>#FCAE91</color>
-    <color>#FB6A4A</color>
-    <color>#CB181D</color>
-    </color-palette>
-
-    <color-palette name="Reds-5" type="ordered-sequential" >
-    <color>#FEE5D9</color>
-    <color>#FCAE91</color>
-    <color>#FB6A4A</color>
-    <color>#DE2D26</color>
-    <color>#A5F15</color>
-    </color-palette>
-
-    <color-palette name="Reds-6" type="ordered-sequential" >
-    <color>#FEE5D9</color>
-    <color>#FCBBA1</color>
-    <color>#FC9272</color>
-    <color>#FB6A4A</color>
-    <color>#DE2D26</color>
-    <color>#A5F15</color>
-    </color-palette>
-
-    <color-palette name="Reds-7" type="ordered-sequential" >
-    <color>#FEE5D9</color>
-    <color>#FCBBA1</color>
-    <color>#FC9272</color>
-    <color>#FB6A4A</color>
-    <color>#EF3B2C</color>
-    <color>#CB181D</color>
-    <color>#990D</color>
-    </color-palette>
-
-    <color-palette name="Reds-8" type="ordered-sequential" >
-    <color>#FFF5F0</color>
-    <color>#FEE0D2</color>
-    <color>#FCBBA1</color>
-    <color>#FC9272</color>
-    <color>#FB6A4A</color>
-    <color>#EF3B2C</color>
-    <color>#CB181D</color>
-    <color>#990D</color>
-    </color-palette>
-
-    <color-palette name="Reds-9" type="ordered-sequential" >
-    <color>#FFF5F0</color>
-    <color>#FEE0D2</color>
-    <color>#FCBBA1</color>
-    <color>#FC9272</color>
-    <color>#FB6A4A</color>
-    <color>#EF3B2C</color>
-    <color>#CB181D</color>
-    <color>#A5F15</color>
-    <color>#670D</color>
-    </color-palette>
-
-    <color-palette name="RdYlBu-3" type="ordered-diverging" >
-    <color>#FC8D59</color>
-    <color>#FFFFBF</color>
-    <color>#91BFDB</color>
-    </color-palette>
-
-    <color-palette name="RdYlBu-4" type="ordered-diverging" >
-    <color>#D7191C</color>
-    <color>#FDAE61</color>
-    <color>#ABD9E9</color>
-    <color>#2C7BB6</color>
-    </color-palette>
-
-    <color-palette name="RdYlBu-5" type="ordered-diverging" >
-    <color>#D7191C</color>
-    <color>#FDAE61</color>
-    <color>#FFFFBF</color>
-    <color>#ABD9E9</color>
-    <color>#2C7BB6</color>
-    </color-palette>
-
-    <color-palette name="RdYlBu-6" type="ordered-diverging" >
-    <color>#D73027</color>
-    <color>#FC8D59</color>
-    <color>#FEE090</color>
-    <color>#E0F3F8</color>
-    <color>#91BFDB</color>
-    <color>#4575B4</color>
-    </color-palette>
-
-    <color-palette name="RdYlBu-7" type="ordered-diverging" >
-    <color>#D73027</color>
-    <color>#FC8D59</color>
-    <color>#FEE090</color>
-    <color>#FFFFBF</color>
-    <color>#E0F3F8</color>
-    <color>#91BFDB</color>
-    <color>#4575B4</color>
-    </color-palette>
-
-    <color-palette name="RdYlBu-8" type="ordered-diverging" >
-    <color>#D73027</color>
-    <color>#F46D43</color>
-    <color>#FDAE61</color>
-    <color>#FEE090</color>
-    <color>#E0F3F8</color>
-    <color>#ABD9E9</color>
-    <color>#74ADD1</color>
-    <color>#4575B4</color>
-    </color-palette>
-
-    <color-palette name="RdYlBu-9" type="ordered-diverging" >
-    <color>#D73027</color>
-    <color>#F46D43</color>
-    <color>#FDAE61</color>
-    <color>#FEE090</color>
-    <color>#FFFFBF</color>
-    <color>#E0F3F8</color>
-    <color>#ABD9E9</color>
-    <color>#74ADD1</color>
-    <color>#4575B4</color>
-    </color-palette>
-
-    <color-palette name="RdYlBu-10" type="ordered-diverging" >
-    <color>#A5026</color>
-    <color>#D73027</color>
-    <color>#F46D43</color>
-    <color>#FDAE61</color>
-    <color>#FEE090</color>
-    <color>#E0F3F8</color>
-    <color>#ABD9E9</color>
-    <color>#74ADD1</color>
-    <color>#4575B4</color>
-    <color>#313695</color>
-    </color-palette>
-
-    <color-palette name="RdYlBu-11" type="ordered-diverging" >
-    <color>#A5026</color>
-    <color>#D73027</color>
-    <color>#F46D43</color>
-    <color>#FDAE61</color>
-    <color>#FEE090</color>
-    <color>#FFFFBF</color>
-    <color>#E0F3F8</color>
-    <color>#ABD9E9</color>
-    <color>#74ADD1</color>
-    <color>#4575B4</color>
-    <color>#313695</color>
-    </color-palette>
-
-    <color-palette name="RdYlGn-3" type="ordered-diverging" >
-    <color>#FC8D59</color>
-    <color>#FFFFBF</color>
-    <color>#91CF60</color>
-    </color-palette>
-
-    <color-palette name="RdYlGn-4" type="ordered-diverging" >
-    <color>#D7191C</color>
-    <color>#FDAE61</color>
-    <color>#A6D96A</color>
-    <color>#1A9641</color>
-    </color-palette>
-
-    <color-palette name="RdYlGn-5" type="ordered-diverging" >
-    <color>#D7191C</color>
-    <color>#FDAE61</color>
-    <color>#FFFFBF</color>
-    <color>#A6D96A</color>
-    <color>#1A9641</color>
-    </color-palette>
-
-    <color-palette name="RdYlGn-6" type="ordered-diverging" >
-    <color>#D73027</color>
-    <color>#FC8D59</color>
-    <color>#FEE08B</color>
-    <color>#D9EF8B</color>
-    <color>#91CF60</color>
-    <color>#1A9850</color>
-    </color-palette>
-
-    <color-palette name="RdYlGn-7" type="ordered-diverging" >
-    <color>#D73027</color>
-    <color>#FC8D59</color>
-    <color>#FEE08B</color>
-    <color>#FFFFBF</color>
-    <color>#D9EF8B</color>
-    <color>#91CF60</color>
-    <color>#1A9850</color>
-    </color-palette>
-
-    <color-palette name="RdYlGn-8" type="ordered-diverging" >
-    <color>#D73027</color>
-    <color>#F46D43</color>
-    <color>#FDAE61</color>
-    <color>#FEE08B</color>
-    <color>#D9EF8B</color>
-    <color>#A6D96A</color>
-    <color>#66BD63</color>
-    <color>#1A9850</color>
-    </color-palette>
-
-    <color-palette name="RdYlGn-9" type="ordered-diverging" >
-    <color>#D73027</color>
-    <color>#F46D43</color>
-    <color>#FDAE61</color>
-    <color>#FEE08B</color>
-    <color>#FFFFBF</color>
-    <color>#D9EF8B</color>
-    <color>#A6D96A</color>
-    <color>#66BD63</color>
-    <color>#1A9850</color>
-    </color-palette>
-
-    <color-palette name="RdYlGn-10" type="ordered-diverging" >
-    <color>#A5026</color>
-    <color>#D73027</color>
-    <color>#F46D43</color>
-    <color>#FDAE61</color>
-    <color>#FEE08B</color>
-    <color>#D9EF8B</color>
-    <color>#A6D96A</color>
-    <color>#66BD63</color>
-    <color>#1A9850</color>
-    <color>#06837</color>
-    </color-palette>
-
-    <color-palette name="RdYlGn-11" type="ordered-diverging" >
-    <color>#A5026</color>
-    <color>#D73027</color>
-    <color>#F46D43</color>
-    <color>#FDAE61</color>
-    <color>#FEE08B</color>
-    <color>#FFFFBF</color>
-    <color>#D9EF8B</color>
-    <color>#A6D96A</color>
-    <color>#66BD63</color>
-    <color>#1A9850</color>
-    <color>#06837</color>
-    </color-palette>
-
-    <color-palette name="Set1-3" type="regular" >
-    <color>#E41A1C</color>
-    <color>#377EB8</color>
-    <color>#4DAF4A</color>
-    </color-palette>
-
-    <color-palette name="Set1-4" type="regular" >
-    <color>#E41A1C</color>
-    <color>#377EB8</color>
-    <color>#4DAF4A</color>
-    <color>#984EA3</color>
-    </color-palette>
-
-    <color-palette name="Set1-5" type="regular" >
-    <color>#E41A1C</color>
-    <color>#377EB8</color>
-    <color>#4DAF4A</color>
-    <color>#984EA3</color>
-    <color>#FF7F0</color>
-    </color-palette>
-
-    <color-palette name="Set1-6" type="regular" >
-    <color>#E41A1C</color>
-    <color>#377EB8</color>
-    <color>#4DAF4A</color>
-    <color>#984EA3</color>
-    <color>#FF7F0</color>
-    <color>#FFFF33</color>
-    </color-palette>
-
-    <color-palette name="Set1-7" type="regular" >
-    <color>#E41A1C</color>
-    <color>#377EB8</color>
-    <color>#4DAF4A</color>
-    <color>#984EA3</color>
-    <color>#FF7F0</color>
-    <color>#FFFF33</color>
-    <color>#A65628</color>
-    </color-palette>
-
-    <color-palette name="Set1-8" type="regular" >
-    <color>#E41A1C</color>
-    <color>#377EB8</color>
-    <color>#4DAF4A</color>
-    <color>#984EA3</color>
-    <color>#FF7F0</color>
-    <color>#FFFF33</color>
-    <color>#A65628</color>
-    <color>#F781BF</color>
-    </color-palette>
-
-    <color-palette name="Set1-9" type="regular" >
-    <color>#E41A1C</color>
-    <color>#377EB8</color>
-    <color>#4DAF4A</color>
-    <color>#984EA3</color>
-    <color>#FF7F0</color>
-    <color>#FFFF33</color>
-    <color>#A65628</color>
-    <color>#F781BF</color>
-    <color>#999999</color>
-    </color-palette>
-
-    <color-palette name="Set2-3" type="regular" >
-    <color>#66C2A5</color>
-    <color>#FC8D62</color>
-    <color>#8DA0CB</color>
-    </color-palette>
-
-    <color-palette name="Set2-4" type="regular" >
-    <color>#66C2A5</color>
-    <color>#FC8D62</color>
-    <color>#8DA0CB</color>
-    <color>#E78AC3</color>
-    </color-palette>
-
-    <color-palette name="Set2-5" type="regular" >
-    <color>#66C2A5</color>
-    <color>#FC8D62</color>
-    <color>#8DA0CB</color>
-    <color>#E78AC3</color>
-    <color>#A6D854</color>
-    </color-palette>
-
-    <color-palette name="Set2-6" type="regular" >
-    <color>#66C2A5</color>
-    <color>#FC8D62</color>
-    <color>#8DA0CB</color>
-    <color>#E78AC3</color>
-    <color>#A6D854</color>
-    <color>#FFD92F</color>
-    </color-palette>
-
-    <color-palette name="Set2-7" type="regular" >
-    <color>#66C2A5</color>
-    <color>#FC8D62</color>
-    <color>#8DA0CB</color>
-    <color>#E78AC3</color>
-    <color>#A6D854</color>
-    <color>#FFD92F</color>
-    <color>#E5C494</color>
-    </color-palette>
-
-    <color-palette name="Set2-8" type="regular" >
-    <color>#66C2A5</color>
-    <color>#FC8D62</color>
-    <color>#8DA0CB</color>
-    <color>#E78AC3</color>
-    <color>#A6D854</color>
-    <color>#FFD92F</color>
-    <color>#E5C494</color>
-    <color>#B3B3B3</color>
-    </color-palette>
-
-    <color-palette name="Set3-3" type="regular" >
-    <color>#8DD3C7</color>
-    <color>#FFFFB3</color>
-    <color>#BEBADA</color>
-    </color-palette>
-
-    <color-palette name="Set3-4" type="regular" >
-    <color>#8DD3C7</color>
-    <color>#FFFFB3</color>
-    <color>#BEBADA</color>
-    <color>#FB8072</color>
-    </color-palette>
-
-    <color-palette name="Set3-5" type="regular" >
-    <color>#8DD3C7</color>
-    <color>#FFFFB3</color>
-    <color>#BEBADA</color>
-    <color>#FB8072</color>
-    <color>#80B1D3</color>
-    </color-palette>
-
-    <color-palette name="Set3-6" type="regular" >
-    <color>#8DD3C7</color>
-    <color>#FFFFB3</color>
-    <color>#BEBADA</color>
-    <color>#FB8072</color>
-    <color>#80B1D3</color>
-    <color>#FDB462</color>
-    </color-palette>
-
-    <color-palette name="Set3-7" type="regular" >
-    <color>#8DD3C7</color>
-    <color>#FFFFB3</color>
-    <color>#BEBADA</color>
-    <color>#FB8072</color>
-    <color>#80B1D3</color>
-    <color>#FDB462</color>
-    <color>#B3DE69</color>
-    </color-palette>
-
-    <color-palette name="Set3-8" type="regular" >
-    <color>#8DD3C7</color>
-    <color>#FFFFB3</color>
-    <color>#BEBADA</color>
-    <color>#FB8072</color>
-    <color>#80B1D3</color>
-    <color>#FDB462</color>
-    <color>#B3DE69</color>
-    <color>#FCCDE5</color>
-    </color-palette>
-
-    <color-palette name="Set3-9" type="regular" >
-    <color>#8DD3C7</color>
-    <color>#FFFFB3</color>
-    <color>#BEBADA</color>
-    <color>#FB8072</color>
-    <color>#80B1D3</color>
-    <color>#FDB462</color>
-    <color>#B3DE69</color>
-    <color>#FCCDE5</color>
-    <color>#D9D9D9</color>
-    </color-palette>
-
-    <color-palette name="Set3-10" type="regular" >
-    <color>#8DD3C7</color>
-    <color>#FFFFB3</color>
-    <color>#BEBADA</color>
-    <color>#FB8072</color>
-    <color>#80B1D3</color>
-    <color>#FDB462</color>
-    <color>#B3DE69</color>
-    <color>#FCCDE5</color>
-    <color>#D9D9D9</color>
-    <color>#BC80BD</color>
-    </color-palette>
-
-    <color-palette name="Set3-11" type="regular" >
-    <color>#8DD3C7</color>
-    <color>#FFFFB3</color>
-    <color>#BEBADA</color>
-    <color>#FB8072</color>
-    <color>#80B1D3</color>
-    <color>#FDB462</color>
-    <color>#B3DE69</color>
-    <color>#FCCDE5</color>
-    <color>#D9D9D9</color>
-    <color>#BC80BD</color>
-    <color>#CCEBC5</color>
-    </color-palette>
-
-    <color-palette name="Set3-12" type="regular" >
-    <color>#8DD3C7</color>
-    <color>#FFFFB3</color>
-    <color>#BEBADA</color>
-    <color>#FB8072</color>
-    <color>#80B1D3</color>
-    <color>#FDB462</color>
-    <color>#B3DE69</color>
-    <color>#FCCDE5</color>
-    <color>#D9D9D9</color>
-    <color>#BC80BD</color>
-    <color>#CCEBC5</color>
-    <color>#FFED6F</color>
-    </color-palette>
-
-    <color-palette name="Spectral-3" type="ordered-diverging" >
-    <color>#FC8D59</color>
-    <color>#FFFFBF</color>
-    <color>#99D594</color>
-    </color-palette>
-
-    <color-palette name="Spectral-4" type="ordered-diverging" >
-    <color>#D7191C</color>
-    <color>#FDAE61</color>
-    <color>#ABDDA4</color>
-    <color>#2B83BA</color>
-    </color-palette>
-
-    <color-palette name="Spectral-5" type="ordered-diverging" >
-    <color>#D7191C</color>
-    <color>#FDAE61</color>
-    <color>#FFFFBF</color>
-    <color>#ABDDA4</color>
-    <color>#2B83BA</color>
-    </color-palette>
-
-    <color-palette name="Spectral-6" type="ordered-diverging" >
-    <color>#D53E4F</color>
-    <color>#FC8D59</color>
-    <color>#FEE08B</color>
-    <color>#E6F598</color>
-    <color>#99D594</color>
-    <color>#3288BD</color>
-    </color-palette>
-
-    <color-palette name="Spectral-7" type="ordered-diverging" >
-    <color>#D53E4F</color>
-    <color>#FC8D59</color>
-    <color>#FEE08B</color>
-    <color>#FFFFBF</color>
-    <color>#E6F598</color>
-    <color>#99D594</color>
-    <color>#3288BD</color>
-    </color-palette>
-
-    <color-palette name="Spectral-8" type="ordered-diverging" >
-    <color>#D53E4F</color>
-    <color>#F46D43</color>
-    <color>#FDAE61</color>
-    <color>#FEE08B</color>
-    <color>#E6F598</color>
-    <color>#ABDDA4</color>
-    <color>#66C2A5</color>
-    <color>#3288BD</color>
-    </color-palette>
-
-    <color-palette name="Spectral-9" type="ordered-diverging" >
-    <color>#D53E4F</color>
-    <color>#F46D43</color>
-    <color>#FDAE61</color>
-    <color>#FEE08B</color>
-    <color>#FFFFBF</color>
-    <color>#E6F598</color>
-    <color>#ABDDA4</color>
-    <color>#66C2A5</color>
-    <color>#3288BD</color>
-    </color-palette>
-
-    <color-palette name="Spectral-10" type="ordered-diverging" >
-    <color>#9E142</color>
-    <color>#D53E4F</color>
-    <color>#F46D43</color>
-    <color>#FDAE61</color>
-    <color>#FEE08B</color>
-    <color>#E6F598</color>
-    <color>#ABDDA4</color>
-    <color>#66C2A5</color>
-    <color>#3288BD</color>
-    <color>#5E4FA2</color>
-    </color-palette>
-
-    <color-palette name="Spectral-11" type="ordered-diverging" >
-    <color>#9E142</color>
-    <color>#D53E4F</color>
-    <color>#F46D43</color>
-    <color>#FDAE61</color>
-    <color>#FEE08B</color>
-    <color>#FFFFBF</color>
-    <color>#E6F598</color>
-    <color>#ABDDA4</color>
-    <color>#66C2A5</color>
-    <color>#3288BD</color>
-    <color>#5E4FA2</color>
-    </color-palette>
-
-    <color-palette name="YlGn-3" type="ordered-sequential" >
-    <color>#F7FCB9</color>
-    <color>#ADDD8E</color>
-    <color>#31A354</color>
-    </color-palette>
-
-    <color-palette name="YlGn-4" type="ordered-sequential" >
-    <color>#FFFFCC</color>
-    <color>#C2E699</color>
-    <color>#78C679</color>
-    <color>#238443</color>
-    </color-palette>
-
-    <color-palette name="YlGn-5" type="ordered-sequential" >
-    <color>#FFFFCC</color>
-    <color>#C2E699</color>
-    <color>#78C679</color>
-    <color>#31A354</color>
-    <color>#06837</color>
-    </color-palette>
-
-    <color-palette name="YlGn-6" type="ordered-sequential" >
-    <color>#FFFFCC</color>
-    <color>#D9F0A3</color>
-    <color>#ADDD8E</color>
-    <color>#78C679</color>
-    <color>#31A354</color>
-    <color>#06837</color>
-    </color-palette>
-
-    <color-palette name="YlGn-7" type="ordered-sequential" >
-    <color>#FFFFCC</color>
-    <color>#D9F0A3</color>
-    <color>#ADDD8E</color>
-    <color>#78C679</color>
-    <color>#41AB5D</color>
-    <color>#238443</color>
-    <color>#05A32</color>
-    </color-palette>
-
-    <color-palette name="YlGn-8" type="ordered-sequential" >
-    <color>#FFFFE5</color>
-    <color>#F7FCB9</color>
-    <color>#D9F0A3</color>
-    <color>#ADDD8E</color>
-    <color>#78C679</color>
-    <color>#41AB5D</color>
-    <color>#238443</color>
-    <color>#05A32</color>
-    </color-palette>
-
-    <color-palette name="YlGn-9" type="ordered-sequential" >
-    <color>#FFFFE5</color>
-    <color>#F7FCB9</color>
-    <color>#D9F0A3</color>
-    <color>#ADDD8E</color>
-    <color>#78C679</color>
-    <color>#41AB5D</color>
-    <color>#238443</color>
-    <color>#06837</color>
-    <color>#04529</color>
-    </color-palette>
-
-    <color-palette name="YlGnBu-3" type="ordered-sequential" >
-    <color>#EDF8B1</color>
-    <color>#7FCDBB</color>
-    <color>#2C7FB8</color>
-    </color-palette>
-
-    <color-palette name="YlGnBu-4" type="ordered-sequential" >
-    <color>#FFFFCC</color>
-    <color>#A1DAB4</color>
-    <color>#41B6C4</color>
-    <color>#225EA8</color>
-    </color-palette>
-
-    <color-palette name="YlGnBu-5" type="ordered-sequential" >
-    <color>#FFFFCC</color>
-    <color>#A1DAB4</color>
-    <color>#41B6C4</color>
-    <color>#2C7FB8</color>
-    <color>#253494</color>
-    </color-palette>
-
-    <color-palette name="YlGnBu-6" type="ordered-sequential" >
-    <color>#FFFFCC</color>
-    <color>#C7E9B4</color>
-    <color>#7FCDBB</color>
-    <color>#41B6C4</color>
-    <color>#2C7FB8</color>
-    <color>#253494</color>
-    </color-palette>
-
-    <color-palette name="YlGnBu-7" type="ordered-sequential" >
-    <color>#FFFFCC</color>
-    <color>#C7E9B4</color>
-    <color>#7FCDBB</color>
-    <color>#41B6C4</color>
-    <color>#1D91C0</color>
-    <color>#225EA8</color>
-    <color>#C2C84</color>
-    </color-palette>
-
-    <color-palette name="YlGnBu-8" type="ordered-sequential" >
-    <color>#FFFFD9</color>
-    <color>#EDF8B1</color>
-    <color>#C7E9B4</color>
-    <color>#7FCDBB</color>
-    <color>#41B6C4</color>
-    <color>#1D91C0</color>
-    <color>#225EA8</color>
-    <color>#C2C84</color>
-    </color-palette>
-
-    <color-palette name="YlGnBu-9" type="ordered-sequential" >
-    <color>#FFFFD9</color>
-    <color>#EDF8B1</color>
-    <color>#C7E9B4</color>
-    <color>#7FCDBB</color>
-    <color>#41B6C4</color>
-    <color>#1D91C0</color>
-    <color>#225EA8</color>
-    <color>#253494</color>
-    <color>#81D58</color>
-    </color-palette>
-
-    <color-palette name="YlOrBr-3" type="ordered-sequential" >
-    <color>#FFF7BC</color>
-    <color>#FEC44F</color>
-    <color>#D95FE</color>
-    </color-palette>
-
-    <color-palette name="YlOrBr-4" type="ordered-sequential" >
-    <color>#FFFFD4</color>
-    <color>#FED98E</color>
-    <color>#FE9929</color>
-    <color>#CC4C2</color>
-    </color-palette>
-
-    <color-palette name="YlOrBr-5" type="ordered-sequential" >
-    <color>#FFFFD4</color>
-    <color>#FED98E</color>
-    <color>#FE9929</color>
-    <color>#D95FE</color>
-    <color>#99344</color>
-    </color-palette>
-
-    <color-palette name="YlOrBr-6" type="ordered-sequential" >
-    <color>#FFFFD4</color>
-    <color>#FEE391</color>
-    <color>#FEC44F</color>
-    <color>#FE9929</color>
-    <color>#D95FE</color>
-    <color>#99344</color>
-    </color-palette>
-
-    <color-palette name="YlOrBr-7" type="ordered-sequential" >
-    <color>#FFFFD4</color>
-    <color>#FEE391</color>
-    <color>#FEC44F</color>
-    <color>#FE9929</color>
-    <color>#EC7014</color>
-    <color>#CC4C2</color>
-    <color>#8C2D4</color>
-    </color-palette>
-
-    <color-palette name="YlOrBr-8" type="ordered-sequential" >
-    <color>#FFFFE5</color>
-    <color>#FFF7BC</color>
-    <color>#FEE391</color>
-    <color>#FEC44F</color>
-    <color>#FE9929</color>
-    <color>#EC7014</color>
-    <color>#CC4C2</color>
-    <color>#8C2D4</color>
-    </color-palette>
-
-    <color-palette name="YlOrBr-9" type="ordered-sequential" >
-    <color>#FFFFE5</color>
-    <color>#FFF7BC</color>
-    <color>#FEE391</color>
-    <color>#FEC44F</color>
-    <color>#FE9929</color>
-    <color>#EC7014</color>
-    <color>#CC4C2</color>
-    <color>#99344</color>
-    <color>#66256</color>
-    </color-palette>
-
-    <color-palette name="YlOrRd-3" type="ordered-sequential" >
-    <color>#FFEDA0</color>
-    <color>#FEB24C</color>
-    <color>#F03B20</color>
-    </color-palette>
-
-    <color-palette name="YlOrRd-4" type="ordered-sequential" >
-    <color>#FFFFB2</color>
-    <color>#FECC5C</color>
-    <color>#FD8D3C</color>
-    <color>#E31A1C</color>
-    </color-palette>
-
-    <color-palette name="YlOrRd-5" type="ordered-sequential" >
-    <color>#FFFFB2</color>
-    <color>#FECC5C</color>
-    <color>#FD8D3C</color>
-    <color>#F03B20</color>
-    <color>#BD026</color>
-    </color-palette>
-
-    <color-palette name="YlOrRd-6" type="ordered-sequential" >
-    <color>#FFFFB2</color>
-    <color>#FED976</color>
-    <color>#FEB24C</color>
-    <color>#FD8D3C</color>
-    <color>#F03B20</color>
-    <color>#BD026</color>
-    </color-palette>
-
-    <color-palette name="YlOrRd-7" type="ordered-sequential" >
-    <color>#FFFFB2</color>
-    <color>#FED976</color>
-    <color>#FEB24C</color>
-    <color>#FD8D3C</color>
-    <color>#FC4E2A</color>
-    <color>#E31A1C</color>
-    <color>#B1026</color>
-    </color-palette>
-
-    <color-palette name="YlOrRd-8" type="ordered-sequential" >
-    <color>#FFFFCC</color>
-    <color>#FFEDA0</color>
-    <color>#FED976</color>
-    <color>#FEB24C</color>
-    <color>#FD8D3C</color>
-    <color>#FC4E2A</color>
-    <color>#E31A1C</color>
-    <color>#B1026</color>
-    </color-palette>
-
-    <color-palette name="YlOrRd-9" type="ordered-sequential" >
-    <color>#FFFFCC</color>
-    <color>#FFEDA0</color>
-    <color>#FED976</color>
-    <color>#FEB24C</color>
-    <color>#FD8D3C</color>
-    <color>#FC4E2A</color>
-    <color>#E31A1C</color>
-    <color>#BD026</color>
-    <color>#80026</color>
-    </color-palette>
+        <color-palette name="Accent-4" type="regular">
+            <color>#7FC97F</color>
+            <color>#BEAED4</color>
+            <color>#FDC086</color>
+            <color>#FFFF99</color>
+        </color-palette>
+
+        <color-palette name="Accent-5" type="regular">
+            <color>#7FC97F</color>
+            <color>#BEAED4</color>
+            <color>#FDC086</color>
+            <color>#FFFF99</color>
+            <color>#386CB0</color>
+        </color-palette>
+
+        <color-palette name="Accent-6" type="regular">
+            <color>#7FC97F</color>
+            <color>#BEAED4</color>
+            <color>#FDC086</color>
+            <color>#FFFF99</color>
+            <color>#386CB0</color>
+            <color>#F027F</color>
+        </color-palette>
+
+        <color-palette name="Accent-7" type="regular">
+            <color>#7FC97F</color>
+            <color>#BEAED4</color>
+            <color>#FDC086</color>
+            <color>#FFFF99</color>
+            <color>#386CB0</color>
+            <color>#F027F</color>
+            <color>#BF5B17</color>
+        </color-palette>
+
+        <color-palette name="Accent-8" type="regular">
+            <color>#7FC97F</color>
+            <color>#BEAED4</color>
+            <color>#FDC086</color>
+            <color>#FFFF99</color>
+            <color>#386CB0</color>
+            <color>#F027F</color>
+            <color>#BF5B17</color>
+            <color>#666666</color>
+        </color-palette>
+
+        <color-palette name="Blues-3" type="ordered-sequential">
+            <color>#DEEBF7</color>
+            <color>#9ECAE1</color>
+            <color>#3182BD</color>
+        </color-palette>
+
+        <color-palette name="Blues-4" type="ordered-sequential">
+            <color>#EFF3FF</color>
+            <color>#BDD7E7</color>
+            <color>#6BAED6</color>
+            <color>#2171B5</color>
+        </color-palette>
+
+        <color-palette name="Blues-5" type="ordered-sequential">
+            <color>#EFF3FF</color>
+            <color>#BDD7E7</color>
+            <color>#6BAED6</color>
+            <color>#3182BD</color>
+            <color>#8519C</color>
+        </color-palette>
+
+        <color-palette name="Blues-6" type="ordered-sequential">
+            <color>#EFF3FF</color>
+            <color>#C6DBEF</color>
+            <color>#9ECAE1</color>
+            <color>#6BAED6</color>
+            <color>#3182BD</color>
+            <color>#8519C</color>
+        </color-palette>
+
+        <color-palette name="Blues-7" type="ordered-sequential">
+            <color>#EFF3FF</color>
+            <color>#C6DBEF</color>
+            <color>#9ECAE1</color>
+            <color>#6BAED6</color>
+            <color>#4292C6</color>
+            <color>#2171B5</color>
+            <color>#84594</color>
+        </color-palette>
+
+        <color-palette name="Blues-8" type="ordered-sequential">
+            <color>#F7FBFF</color>
+            <color>#DEEBF7</color>
+            <color>#C6DBEF</color>
+            <color>#9ECAE1</color>
+            <color>#6BAED6</color>
+            <color>#4292C6</color>
+            <color>#2171B5</color>
+            <color>#84594</color>
+        </color-palette>
+
+        <color-palette name="Blues-9" type="ordered-sequential">
+            <color>#F7FBFF</color>
+            <color>#DEEBF7</color>
+            <color>#C6DBEF</color>
+            <color>#9ECAE1</color>
+            <color>#6BAED6</color>
+            <color>#4292C6</color>
+            <color>#2171B5</color>
+            <color>#8519C</color>
+            <color>#8306B</color>
+        </color-palette>
+
+        <color-palette name="BrBG-3" type="ordered-diverging">
+            <color>#D8B365</color>
+            <color>#F5F5F5</color>
+            <color>#5AB4AC</color>
+        </color-palette>
+
+        <color-palette name="BrBG-4" type="ordered-diverging">
+            <color>#A6611A</color>
+            <color>#DFC27D</color>
+            <color>#80CDC1</color>
+            <color>#18571</color>
+        </color-palette>
+
+        <color-palette name="BrBG-5" type="ordered-diverging">
+            <color>#A6611A</color>
+            <color>#DFC27D</color>
+            <color>#F5F5F5</color>
+            <color>#80CDC1</color>
+            <color>#18571</color>
+        </color-palette>
+
+        <color-palette name="BrBG-6" type="ordered-diverging">
+            <color>#8C51A</color>
+            <color>#D8B365</color>
+            <color>#F6E8C3</color>
+            <color>#C7EAE5</color>
+            <color>#5AB4AC</color>
+            <color>#1665E</color>
+        </color-palette>
+
+        <color-palette name="BrBG-7" type="ordered-diverging">
+            <color>#8C51A</color>
+            <color>#D8B365</color>
+            <color>#F6E8C3</color>
+            <color>#F5F5F5</color>
+            <color>#C7EAE5</color>
+            <color>#5AB4AC</color>
+            <color>#1665E</color>
+        </color-palette>
+
+        <color-palette name="BrBG-8" type="ordered-diverging">
+            <color>#8C51A</color>
+            <color>#BF812D</color>
+            <color>#DFC27D</color>
+            <color>#F6E8C3</color>
+            <color>#C7EAE5</color>
+            <color>#80CDC1</color>
+            <color>#35978F</color>
+            <color>#1665E</color>
+        </color-palette>
+
+        <color-palette name="BrBG-9" type="ordered-diverging">
+            <color>#8C51A</color>
+            <color>#BF812D</color>
+            <color>#DFC27D</color>
+            <color>#F6E8C3</color>
+            <color>#F5F5F5</color>
+            <color>#C7EAE5</color>
+            <color>#80CDC1</color>
+            <color>#35978F</color>
+            <color>#1665E</color>
+        </color-palette>
+
+        <color-palette name="BrBG-10" type="ordered-diverging">
+            <color>#54305</color>
+            <color>#8C51A</color>
+            <color>#BF812D</color>
+            <color>#DFC27D</color>
+            <color>#F6E8C3</color>
+            <color>#C7EAE5</color>
+            <color>#80CDC1</color>
+            <color>#35978F</color>
+            <color>#1665E</color>
+            <color>#03C30</color>
+        </color-palette>
+
+        <color-palette name="BrBG-11" type="ordered-diverging">
+            <color>#54305</color>
+            <color>#8C51A</color>
+            <color>#BF812D</color>
+            <color>#DFC27D</color>
+            <color>#F6E8C3</color>
+            <color>#F5F5F5</color>
+            <color>#C7EAE5</color>
+            <color>#80CDC1</color>
+            <color>#35978F</color>
+            <color>#1665E</color>
+            <color>#03C30</color>
+        </color-palette>
+
+        <color-palette name="BuGn-3" type="ordered-sequential">
+            <color>#E5F5F9</color>
+            <color>#99D8C9</color>
+            <color>#2CA25F</color>
+        </color-palette>
+
+        <color-palette name="BuGn-4" type="ordered-sequential">
+            <color>#EDF8FB</color>
+            <color>#B2E2E2</color>
+            <color>#66C2A4</color>
+            <color>#238B45</color>
+        </color-palette>
+
+        <color-palette name="BuGn-5" type="ordered-sequential">
+            <color>#EDF8FB</color>
+            <color>#B2E2E2</color>
+            <color>#66C2A4</color>
+            <color>#2CA25F</color>
+            <color>#06D2C</color>
+        </color-palette>
+
+        <color-palette name="BuGn-6" type="ordered-sequential">
+            <color>#EDF8FB</color>
+            <color>#CCECE6</color>
+            <color>#99D8C9</color>
+            <color>#66C2A4</color>
+            <color>#2CA25F</color>
+            <color>#06D2C</color>
+        </color-palette>
+
+        <color-palette name="BuGn-7" type="ordered-sequential">
+            <color>#EDF8FB</color>
+            <color>#CCECE6</color>
+            <color>#99D8C9</color>
+            <color>#66C2A4</color>
+            <color>#41AE76</color>
+            <color>#238B45</color>
+            <color>#05824</color>
+        </color-palette>
+
+        <color-palette name="BuGn-8" type="ordered-sequential">
+            <color>#F7FCFD</color>
+            <color>#E5F5F9</color>
+            <color>#CCECE6</color>
+            <color>#99D8C9</color>
+            <color>#66C2A4</color>
+            <color>#41AE76</color>
+            <color>#238B45</color>
+            <color>#05824</color>
+        </color-palette>
+
+        <color-palette name="BuGn-9" type="ordered-sequential">
+            <color>#F7FCFD</color>
+            <color>#E5F5F9</color>
+            <color>#CCECE6</color>
+            <color>#99D8C9</color>
+            <color>#66C2A4</color>
+            <color>#41AE76</color>
+            <color>#238B45</color>
+            <color>#06D2C</color>
+            <color>#0441B</color>
+        </color-palette>
+
+        <color-palette name="BuPu-3" type="ordered-sequential">
+            <color>#E0ECF4</color>
+            <color>#9EBCDA</color>
+            <color>#8856A7</color>
+        </color-palette>
+
+        <color-palette name="BuPu-4" type="ordered-sequential">
+            <color>#EDF8FB</color>
+            <color>#B3CDE3</color>
+            <color>#8C96C6</color>
+            <color>#88419D</color>
+        </color-palette>
+
+        <color-palette name="BuPu-5" type="ordered-sequential">
+            <color>#EDF8FB</color>
+            <color>#B3CDE3</color>
+            <color>#8C96C6</color>
+            <color>#8856A7</color>
+            <color>#81F7C</color>
+        </color-palette>
+
+        <color-palette name="BuPu-6" type="ordered-sequential">
+            <color>#EDF8FB</color>
+            <color>#BFD3E6</color>
+            <color>#9EBCDA</color>
+            <color>#8C96C6</color>
+            <color>#8856A7</color>
+            <color>#81F7C</color>
+        </color-palette>
+
+        <color-palette name="BuPu-7" type="ordered-sequential">
+            <color>#EDF8FB</color>
+            <color>#BFD3E6</color>
+            <color>#9EBCDA</color>
+            <color>#8C96C6</color>
+            <color>#8C6BB1</color>
+            <color>#88419D</color>
+            <color>#6E16B</color>
+        </color-palette>
+
+        <color-palette name="BuPu-8" type="ordered-sequential">
+            <color>#F7FCFD</color>
+            <color>#E0ECF4</color>
+            <color>#BFD3E6</color>
+            <color>#9EBCDA</color>
+            <color>#8C96C6</color>
+            <color>#8C6BB1</color>
+            <color>#88419D</color>
+            <color>#6E16B</color>
+        </color-palette>
+
+        <color-palette name="BuPu-9" type="ordered-sequential">
+            <color>#F7FCFD</color>
+            <color>#E0ECF4</color>
+            <color>#BFD3E6</color>
+            <color>#9EBCDA</color>
+            <color>#8C96C6</color>
+            <color>#8C6BB1</color>
+            <color>#88419D</color>
+            <color>#81F7C</color>
+            <color>#4D04B</color>
+        </color-palette>
+
+        <color-palette name="Dark2-3" type="regular">
+            <color>#1B9E77</color>
+            <color>#D95F2</color>
+            <color>#7570B3</color>
+        </color-palette>
+
+        <color-palette name="Dark2-4" type="regular">
+            <color>#1B9E77</color>
+            <color>#D95F2</color>
+            <color>#7570B3</color>
+            <color>#E7298A</color>
+        </color-palette>
+
+        <color-palette name="Dark2-5" type="regular">
+            <color>#1B9E77</color>
+            <color>#D95F2</color>
+            <color>#7570B3</color>
+            <color>#E7298A</color>
+            <color>#66A61E</color>
+        </color-palette>
+
+        <color-palette name="Dark2-6" type="regular">
+            <color>#1B9E77</color>
+            <color>#D95F2</color>
+            <color>#7570B3</color>
+            <color>#E7298A</color>
+            <color>#66A61E</color>
+            <color>#E6AB2</color>
+        </color-palette>
+
+        <color-palette name="Dark2-7" type="regular">
+            <color>#1B9E77</color>
+            <color>#D95F2</color>
+            <color>#7570B3</color>
+            <color>#E7298A</color>
+            <color>#66A61E</color>
+            <color>#E6AB2</color>
+            <color>#A6761D</color>
+        </color-palette>
+
+        <color-palette name="Dark2-8" type="regular">
+            <color>#1B9E77</color>
+            <color>#D95F2</color>
+            <color>#7570B3</color>
+            <color>#E7298A</color>
+            <color>#66A61E</color>
+            <color>#E6AB2</color>
+            <color>#A6761D</color>
+            <color>#666666</color>
+        </color-palette>
+
+        <color-palette name="GnBu-3" type="ordered-sequential">
+            <color>#E0F3DB</color>
+            <color>#A8DDB5</color>
+            <color>#43A2CA</color>
+        </color-palette>
+
+        <color-palette name="GnBu-4" type="ordered-sequential">
+            <color>#F0F9E8</color>
+            <color>#BAE4BC</color>
+            <color>#7BCCC4</color>
+            <color>#2B8CBE</color>
+        </color-palette>
+
+        <color-palette name="GnBu-5" type="ordered-sequential">
+            <color>#F0F9E8</color>
+            <color>#BAE4BC</color>
+            <color>#7BCCC4</color>
+            <color>#43A2CA</color>
+            <color>#868AC</color>
+        </color-palette>
+
+        <color-palette name="GnBu-6" type="ordered-sequential">
+            <color>#F0F9E8</color>
+            <color>#CCEBC5</color>
+            <color>#A8DDB5</color>
+            <color>#7BCCC4</color>
+            <color>#43A2CA</color>
+            <color>#868AC</color>
+        </color-palette>
+
+        <color-palette name="GnBu-7" type="ordered-sequential">
+            <color>#F0F9E8</color>
+            <color>#CCEBC5</color>
+            <color>#A8DDB5</color>
+            <color>#7BCCC4</color>
+            <color>#4EB3D3</color>
+            <color>#2B8CBE</color>
+            <color>#8589E</color>
+        </color-palette>
+
+        <color-palette name="GnBu-8" type="ordered-sequential">
+            <color>#F7FCF0</color>
+            <color>#E0F3DB</color>
+            <color>#CCEBC5</color>
+            <color>#A8DDB5</color>
+            <color>#7BCCC4</color>
+            <color>#4EB3D3</color>
+            <color>#2B8CBE</color>
+            <color>#8589E</color>
+        </color-palette>
+
+        <color-palette name="GnBu-9" type="ordered-sequential">
+            <color>#F7FCF0</color>
+            <color>#E0F3DB</color>
+            <color>#CCEBC5</color>
+            <color>#A8DDB5</color>
+            <color>#7BCCC4</color>
+            <color>#4EB3D3</color>
+            <color>#2B8CBE</color>
+            <color>#868AC</color>
+            <color>#84081</color>
+        </color-palette>
+
+        <color-palette name="Greens-3" type="ordered-sequential">
+            <color>#E5F5E0</color>
+            <color>#A1D99B</color>
+            <color>#31A354</color>
+        </color-palette>
+
+        <color-palette name="Greens-4" type="ordered-sequential">
+            <color>#EDF8E9</color>
+            <color>#BAE4B3</color>
+            <color>#74C476</color>
+            <color>#238B45</color>
+        </color-palette>
+
+        <color-palette name="Greens-5" type="ordered-sequential">
+            <color>#EDF8E9</color>
+            <color>#BAE4B3</color>
+            <color>#74C476</color>
+            <color>#31A354</color>
+            <color>#06D2C</color>
+        </color-palette>
+
+        <color-palette name="Greens-6" type="ordered-sequential">
+            <color>#EDF8E9</color>
+            <color>#C7E9C0</color>
+            <color>#A1D99B</color>
+            <color>#74C476</color>
+            <color>#31A354</color>
+            <color>#06D2C</color>
+        </color-palette>
+
+        <color-palette name="Greens-7" type="ordered-sequential">
+            <color>#EDF8E9</color>
+            <color>#C7E9C0</color>
+            <color>#A1D99B</color>
+            <color>#74C476</color>
+            <color>#41AB5D</color>
+            <color>#238B45</color>
+            <color>#05A32</color>
+        </color-palette>
+
+        <color-palette name="Greens-8" type="ordered-sequential">
+            <color>#F7FCF5</color>
+            <color>#E5F5E0</color>
+            <color>#C7E9C0</color>
+            <color>#A1D99B</color>
+            <color>#74C476</color>
+            <color>#41AB5D</color>
+            <color>#238B45</color>
+            <color>#05A32</color>
+        </color-palette>
+
+        <color-palette name="Greens-9" type="ordered-sequential">
+            <color>#F7FCF5</color>
+            <color>#E5F5E0</color>
+            <color>#C7E9C0</color>
+            <color>#A1D99B</color>
+            <color>#74C476</color>
+            <color>#41AB5D</color>
+            <color>#238B45</color>
+            <color>#06D2C</color>
+            <color>#0441B</color>
+        </color-palette>
+
+        <color-palette name="Greys-3" type="ordered-sequential">
+            <color>#F0F0F0</color>
+            <color>#BDBDBD</color>
+            <color>#636363</color>
+        </color-palette>
+
+        <color-palette name="Greys-4" type="ordered-sequential">
+            <color>#F7F7F7</color>
+            <color>#CCCCCC</color>
+            <color>#969696</color>
+            <color>#525252</color>
+        </color-palette>
+
+        <color-palette name="Greys-5" type="ordered-sequential">
+            <color>#F7F7F7</color>
+            <color>#CCCCCC</color>
+            <color>#969696</color>
+            <color>#636363</color>
+            <color>#252525</color>
+        </color-palette>
+
+        <color-palette name="Greys-6" type="ordered-sequential">
+            <color>#F7F7F7</color>
+            <color>#D9D9D9</color>
+            <color>#BDBDBD</color>
+            <color>#969696</color>
+            <color>#636363</color>
+            <color>#252525</color>
+        </color-palette>
+
+        <color-palette name="Greys-7" type="ordered-sequential">
+            <color>#F7F7F7</color>
+            <color>#D9D9D9</color>
+            <color>#BDBDBD</color>
+            <color>#969696</color>
+            <color>#737373</color>
+            <color>#525252</color>
+            <color>#252525</color>
+        </color-palette>
+
+        <color-palette name="Greys-8" type="ordered-sequential">
+            <color>#FFFFFF</color>
+            <color>#F0F0F0</color>
+            <color>#D9D9D9</color>
+            <color>#BDBDBD</color>
+            <color>#969696</color>
+            <color>#737373</color>
+            <color>#525252</color>
+            <color>#252525</color>
+        </color-palette>
+
+        <color-palette name="Greys-9" type="ordered-sequential">
+            <color>#FFFFFF</color>
+            <color>#F0F0F0</color>
+            <color>#D9D9D9</color>
+            <color>#BDBDBD</color>
+            <color>#969696</color>
+            <color>#737373</color>
+            <color>#525252</color>
+            <color>#252525</color>
+            <color>#000</color>
+        </color-palette>
+
+        <color-palette name="Oranges-3" type="ordered-sequential">
+            <color>#FEE6CE</color>
+            <color>#FDAE6B</color>
+            <color>#E655D</color>
+        </color-palette>
+
+        <color-palette name="Oranges-4" type="ordered-sequential">
+            <color>#FEEDDE</color>
+            <color>#FDBE85</color>
+            <color>#FD8D3C</color>
+            <color>#D9471</color>
+        </color-palette>
+
+        <color-palette name="Oranges-5" type="ordered-sequential">
+            <color>#FEEDDE</color>
+            <color>#FDBE85</color>
+            <color>#FD8D3C</color>
+            <color>#E655D</color>
+            <color>#A6363</color>
+        </color-palette>
+
+        <color-palette name="Oranges-6" type="ordered-sequential">
+            <color>#FEEDDE</color>
+            <color>#FDD0A2</color>
+            <color>#FDAE6B</color>
+            <color>#FD8D3C</color>
+            <color>#E655D</color>
+            <color>#A6363</color>
+        </color-palette>
+
+        <color-palette name="Oranges-7" type="ordered-sequential">
+            <color>#FEEDDE</color>
+            <color>#FDD0A2</color>
+            <color>#FDAE6B</color>
+            <color>#FD8D3C</color>
+            <color>#F16913</color>
+            <color>#D9481</color>
+            <color>#8C2D4</color>
+        </color-palette>
+
+        <color-palette name="Oranges-8" type="ordered-sequential">
+            <color>#FFF5EB</color>
+            <color>#FEE6CE</color>
+            <color>#FDD0A2</color>
+            <color>#FDAE6B</color>
+            <color>#FD8D3C</color>
+            <color>#F16913</color>
+            <color>#D9481</color>
+            <color>#8C2D4</color>
+        </color-palette>
+
+        <color-palette name="Oranges-9" type="ordered-sequential">
+            <color>#FFF5EB</color>
+            <color>#FEE6CE</color>
+            <color>#FDD0A2</color>
+            <color>#FDAE6B</color>
+            <color>#FD8D3C</color>
+            <color>#F16913</color>
+            <color>#D9481</color>
+            <color>#A6363</color>
+            <color>#7F274</color>
+        </color-palette>
+
+        <color-palette name="OrRd-3" type="ordered-sequential">
+            <color>#FEE8C8</color>
+            <color>#FDBB84</color>
+            <color>#E34A33</color>
+        </color-palette>
+
+        <color-palette name="OrRd-4" type="ordered-sequential">
+            <color>#FEF0D9</color>
+            <color>#FDCC8A</color>
+            <color>#FC8D59</color>
+            <color>#D7301F</color>
+        </color-palette>
+
+        <color-palette name="OrRd-5" type="ordered-sequential">
+            <color>#FEF0D9</color>
+            <color>#FDCC8A</color>
+            <color>#FC8D59</color>
+            <color>#E34A33</color>
+            <color>#B300</color>
+        </color-palette>
+
+        <color-palette name="OrRd-6" type="ordered-sequential">
+            <color>#FEF0D9</color>
+            <color>#FDD49E</color>
+            <color>#FDBB84</color>
+            <color>#FC8D59</color>
+            <color>#E34A33</color>
+            <color>#B300</color>
+        </color-palette>
+
+        <color-palette name="OrRd-7" type="ordered-sequential">
+            <color>#FEF0D9</color>
+            <color>#FDD49E</color>
+            <color>#FDBB84</color>
+            <color>#FC8D59</color>
+            <color>#EF6548</color>
+            <color>#D7301F</color>
+            <color>#9900</color>
+        </color-palette>
+
+        <color-palette name="OrRd-8" type="ordered-sequential">
+            <color>#FFF7EC</color>
+            <color>#FEE8C8</color>
+            <color>#FDD49E</color>
+            <color>#FDBB84</color>
+            <color>#FC8D59</color>
+            <color>#EF6548</color>
+            <color>#D7301F</color>
+            <color>#9900</color>
+        </color-palette>
+
+        <color-palette name="OrRd-9" type="ordered-sequential">
+            <color>#FFF7EC</color>
+            <color>#FEE8C8</color>
+            <color>#FDD49E</color>
+            <color>#FDBB84</color>
+            <color>#FC8D59</color>
+            <color>#EF6548</color>
+            <color>#D7301F</color>
+            <color>#B300</color>
+            <color>#7F00</color>
+        </color-palette>
+
+        <color-palette name="Paired-3" type="regular">
+            <color>#A6CEE3</color>
+            <color>#1F78B4</color>
+            <color>#B2DF8A</color>
+        </color-palette>
+
+        <color-palette name="Paired-4" type="regular">
+            <color>#A6CEE3</color>
+            <color>#1F78B4</color>
+            <color>#B2DF8A</color>
+            <color>#33A02C</color>
+        </color-palette>
+
+        <color-palette name="Paired-5" type="regular">
+            <color>#A6CEE3</color>
+            <color>#1F78B4</color>
+            <color>#B2DF8A</color>
+            <color>#33A02C</color>
+            <color>#FB9A99</color>
+        </color-palette>
+
+        <color-palette name="Paired-6" type="regular">
+            <color>#A6CEE3</color>
+            <color>#1F78B4</color>
+            <color>#B2DF8A</color>
+            <color>#33A02C</color>
+            <color>#FB9A99</color>
+            <color>#E31A1C</color>
+        </color-palette>
+
+        <color-palette name="Paired-7" type="regular">
+            <color>#A6CEE3</color>
+            <color>#1F78B4</color>
+            <color>#B2DF8A</color>
+            <color>#33A02C</color>
+            <color>#FB9A99</color>
+            <color>#E31A1C</color>
+            <color>#FDBF6F</color>
+        </color-palette>
+
+        <color-palette name="Paired-8" type="regular">
+            <color>#A6CEE3</color>
+            <color>#1F78B4</color>
+            <color>#B2DF8A</color>
+            <color>#33A02C</color>
+            <color>#FB9A99</color>
+            <color>#E31A1C</color>
+            <color>#FDBF6F</color>
+            <color>#FF7F0</color>
+        </color-palette>
+
+        <color-palette name="Paired-9" type="regular">
+            <color>#A6CEE3</color>
+            <color>#1F78B4</color>
+            <color>#B2DF8A</color>
+            <color>#33A02C</color>
+            <color>#FB9A99</color>
+            <color>#E31A1C</color>
+            <color>#FDBF6F</color>
+            <color>#FF7F0</color>
+            <color>#CAB2D6</color>
+        </color-palette>
+
+        <color-palette name="Paired-10" type="regular">
+            <color>#A6CEE3</color>
+            <color>#1F78B4</color>
+            <color>#B2DF8A</color>
+            <color>#33A02C</color>
+            <color>#FB9A99</color>
+            <color>#E31A1C</color>
+            <color>#FDBF6F</color>
+            <color>#FF7F0</color>
+            <color>#CAB2D6</color>
+            <color>#6A3D9A</color>
+        </color-palette>
+
+        <color-palette name="Paired-11" type="regular">
+            <color>#A6CEE3</color>
+            <color>#1F78B4</color>
+            <color>#B2DF8A</color>
+            <color>#33A02C</color>
+            <color>#FB9A99</color>
+            <color>#E31A1C</color>
+            <color>#FDBF6F</color>
+            <color>#FF7F0</color>
+            <color>#CAB2D6</color>
+            <color>#6A3D9A</color>
+            <color>#FFFF99</color>
+        </color-palette>
+
+        <color-palette name="Paired-12" type="regular">
+            <color>#A6CEE3</color>
+            <color>#1F78B4</color>
+            <color>#B2DF8A</color>
+            <color>#33A02C</color>
+            <color>#FB9A99</color>
+            <color>#E31A1C</color>
+            <color>#FDBF6F</color>
+            <color>#FF7F0</color>
+            <color>#CAB2D6</color>
+            <color>#6A3D9A</color>
+            <color>#FFFF99</color>
+            <color>#B15928</color>
+        </color-palette>
+
+        <color-palette name="Pastel1-3" type="regular">
+            <color>#FBB4AE</color>
+            <color>#B3CDE3</color>
+            <color>#CCEBC5</color>
+        </color-palette>
+
+        <color-palette name="Pastel1-4" type="regular">
+            <color>#FBB4AE</color>
+            <color>#B3CDE3</color>
+            <color>#CCEBC5</color>
+            <color>#DECBE4</color>
+        </color-palette>
+
+        <color-palette name="Pastel1-5" type="regular">
+            <color>#FBB4AE</color>
+            <color>#B3CDE3</color>
+            <color>#CCEBC5</color>
+            <color>#DECBE4</color>
+            <color>#FED9A6</color>
+        </color-palette>
+
+        <color-palette name="Pastel1-6" type="regular">
+            <color>#FBB4AE</color>
+            <color>#B3CDE3</color>
+            <color>#CCEBC5</color>
+            <color>#DECBE4</color>
+            <color>#FED9A6</color>
+            <color>#FFFFCC</color>
+        </color-palette>
+
+        <color-palette name="Pastel1-7" type="regular">
+            <color>#FBB4AE</color>
+            <color>#B3CDE3</color>
+            <color>#CCEBC5</color>
+            <color>#DECBE4</color>
+            <color>#FED9A6</color>
+            <color>#FFFFCC</color>
+            <color>#E5D8BD</color>
+        </color-palette>
+
+        <color-palette name="Pastel1-8" type="regular">
+            <color>#FBB4AE</color>
+            <color>#B3CDE3</color>
+            <color>#CCEBC5</color>
+            <color>#DECBE4</color>
+            <color>#FED9A6</color>
+            <color>#FFFFCC</color>
+            <color>#E5D8BD</color>
+            <color>#FDDAEC</color>
+        </color-palette>
+
+        <color-palette name="Pastel1-9" type="regular">
+            <color>#FBB4AE</color>
+            <color>#B3CDE3</color>
+            <color>#CCEBC5</color>
+            <color>#DECBE4</color>
+            <color>#FED9A6</color>
+            <color>#FFFFCC</color>
+            <color>#E5D8BD</color>
+            <color>#FDDAEC</color>
+            <color>#F2F2F2</color>
+        </color-palette>
+
+        <color-palette name="Pastel2-3" type="regular">
+            <color>#B3E2CD</color>
+            <color>#FDCDAC</color>
+            <color>#CBD5E8</color>
+        </color-palette>
+
+        <color-palette name="Pastel2-4" type="regular">
+            <color>#B3E2CD</color>
+            <color>#FDCDAC</color>
+            <color>#CBD5E8</color>
+            <color>#F4CAE4</color>
+        </color-palette>
+
+        <color-palette name="Pastel2-5" type="regular">
+            <color>#B3E2CD</color>
+            <color>#FDCDAC</color>
+            <color>#CBD5E8</color>
+            <color>#F4CAE4</color>
+            <color>#E6F5C9</color>
+        </color-palette>
+
+        <color-palette name="Pastel2-6" type="regular">
+            <color>#B3E2CD</color>
+            <color>#FDCDAC</color>
+            <color>#CBD5E8</color>
+            <color>#F4CAE4</color>
+            <color>#E6F5C9</color>
+            <color>#FFF2AE</color>
+        </color-palette>
+
+        <color-palette name="Pastel2-7" type="regular">
+            <color>#B3E2CD</color>
+            <color>#FDCDAC</color>
+            <color>#CBD5E8</color>
+            <color>#F4CAE4</color>
+            <color>#E6F5C9</color>
+            <color>#FFF2AE</color>
+            <color>#F1E2CC</color>
+        </color-palette>
+
+        <color-palette name="Pastel2-8" type="regular">
+            <color>#B3E2CD</color>
+            <color>#FDCDAC</color>
+            <color>#CBD5E8</color>
+            <color>#F4CAE4</color>
+            <color>#E6F5C9</color>
+            <color>#FFF2AE</color>
+            <color>#F1E2CC</color>
+            <color>#CCCCCC</color>
+        </color-palette>
+
+        <color-palette name="PiYG-3" type="ordered-diverging">
+            <color>#E9A3C9</color>
+            <color>#F7F7F7</color>
+            <color>#A1D76A</color>
+        </color-palette>
+
+        <color-palette name="PiYG-4" type="ordered-diverging">
+            <color>#D01C8B</color>
+            <color>#F1B6DA</color>
+            <color>#B8E186</color>
+            <color>#4DAC26</color>
+        </color-palette>
+
+        <color-palette name="PiYG-5" type="ordered-diverging">
+            <color>#D01C8B</color>
+            <color>#F1B6DA</color>
+            <color>#F7F7F7</color>
+            <color>#B8E186</color>
+            <color>#4DAC26</color>
+        </color-palette>
+
+        <color-palette name="PiYG-6" type="ordered-diverging">
+            <color>#C51B7D</color>
+            <color>#E9A3C9</color>
+            <color>#FDE0EF</color>
+            <color>#E6F5D0</color>
+            <color>#A1D76A</color>
+            <color>#4D9221</color>
+        </color-palette>
+
+        <color-palette name="PiYG-7" type="ordered-diverging">
+            <color>#C51B7D</color>
+            <color>#E9A3C9</color>
+            <color>#FDE0EF</color>
+            <color>#F7F7F7</color>
+            <color>#E6F5D0</color>
+            <color>#A1D76A</color>
+            <color>#4D9221</color>
+        </color-palette>
+
+        <color-palette name="PiYG-8" type="ordered-diverging">
+            <color>#C51B7D</color>
+            <color>#DE77AE</color>
+            <color>#F1B6DA</color>
+            <color>#FDE0EF</color>
+            <color>#E6F5D0</color>
+            <color>#B8E186</color>
+            <color>#7FBC41</color>
+            <color>#4D9221</color>
+        </color-palette>
+
+        <color-palette name="PiYG-9" type="ordered-diverging">
+            <color>#C51B7D</color>
+            <color>#DE77AE</color>
+            <color>#F1B6DA</color>
+            <color>#FDE0EF</color>
+            <color>#F7F7F7</color>
+            <color>#E6F5D0</color>
+            <color>#B8E186</color>
+            <color>#7FBC41</color>
+            <color>#4D9221</color>
+        </color-palette>
+
+        <color-palette name="PiYG-10" type="ordered-diverging">
+            <color>#8E152</color>
+            <color>#C51B7D</color>
+            <color>#DE77AE</color>
+            <color>#F1B6DA</color>
+            <color>#FDE0EF</color>
+            <color>#E6F5D0</color>
+            <color>#B8E186</color>
+            <color>#7FBC41</color>
+            <color>#4D9221</color>
+            <color>#276419</color>
+        </color-palette>
+
+        <color-palette name="PiYG-11" type="ordered-diverging">
+            <color>#8E152</color>
+            <color>#C51B7D</color>
+            <color>#DE77AE</color>
+            <color>#F1B6DA</color>
+            <color>#FDE0EF</color>
+            <color>#F7F7F7</color>
+            <color>#E6F5D0</color>
+            <color>#B8E186</color>
+            <color>#7FBC41</color>
+            <color>#4D9221</color>
+            <color>#276419</color>
+        </color-palette>
+
+        <color-palette name="PRGn-3" type="ordered-diverging">
+            <color>#AF8DC3</color>
+            <color>#F7F7F7</color>
+            <color>#7FBF7B</color>
+        </color-palette>
+
+        <color-palette name="PRGn-4" type="ordered-diverging">
+            <color>#7B3294</color>
+            <color>#C2A5CF</color>
+            <color>#A6DBA0</color>
+            <color>#08837</color>
+        </color-palette>
+
+        <color-palette name="PRGn-5" type="ordered-diverging">
+            <color>#7B3294</color>
+            <color>#C2A5CF</color>
+            <color>#F7F7F7</color>
+            <color>#A6DBA0</color>
+            <color>#08837</color>
+        </color-palette>
+
+        <color-palette name="PRGn-6" type="ordered-diverging">
+            <color>#762A83</color>
+            <color>#AF8DC3</color>
+            <color>#E7D4E8</color>
+            <color>#D9F0D3</color>
+            <color>#7FBF7B</color>
+            <color>#1B7837</color>
+        </color-palette>
+
+        <color-palette name="PRGn-7" type="ordered-diverging">
+            <color>#762A83</color>
+            <color>#AF8DC3</color>
+            <color>#E7D4E8</color>
+            <color>#F7F7F7</color>
+            <color>#D9F0D3</color>
+            <color>#7FBF7B</color>
+            <color>#1B7837</color>
+        </color-palette>
+
+        <color-palette name="PRGn-8" type="ordered-diverging">
+            <color>#762A83</color>
+            <color>#9970AB</color>
+            <color>#C2A5CF</color>
+            <color>#E7D4E8</color>
+            <color>#D9F0D3</color>
+            <color>#A6DBA0</color>
+            <color>#5AAE61</color>
+            <color>#1B7837</color>
+        </color-palette>
+
+        <color-palette name="PRGn-9" type="ordered-diverging">
+            <color>#762A83</color>
+            <color>#9970AB</color>
+            <color>#C2A5CF</color>
+            <color>#E7D4E8</color>
+            <color>#F7F7F7</color>
+            <color>#D9F0D3</color>
+            <color>#A6DBA0</color>
+            <color>#5AAE61</color>
+            <color>#1B7837</color>
+        </color-palette>
+
+        <color-palette name="PRGn-10" type="ordered-diverging">
+            <color>#4004B</color>
+            <color>#762A83</color>
+            <color>#9970AB</color>
+            <color>#C2A5CF</color>
+            <color>#E7D4E8</color>
+            <color>#D9F0D3</color>
+            <color>#A6DBA0</color>
+            <color>#5AAE61</color>
+            <color>#1B7837</color>
+            <color>#0441B</color>
+        </color-palette>
+
+        <color-palette name="PRGn-11" type="ordered-diverging">
+            <color>#4004B</color>
+            <color>#762A83</color>
+            <color>#9970AB</color>
+            <color>#C2A5CF</color>
+            <color>#E7D4E8</color>
+            <color>#F7F7F7</color>
+            <color>#D9F0D3</color>
+            <color>#A6DBA0</color>
+            <color>#5AAE61</color>
+            <color>#1B7837</color>
+            <color>#0441B</color>
+        </color-palette>
+
+        <color-palette name="PuBu-3" type="ordered-sequential">
+            <color>#ECE7F2</color>
+            <color>#A6BDDB</color>
+            <color>#2B8CBE</color>
+        </color-palette>
+
+        <color-palette name="PuBu-4" type="ordered-sequential">
+            <color>#F1EEF6</color>
+            <color>#BDC9E1</color>
+            <color>#74A9CF</color>
+            <color>#570B0</color>
+        </color-palette>
+
+        <color-palette name="PuBu-5" type="ordered-sequential">
+            <color>#F1EEF6</color>
+            <color>#BDC9E1</color>
+            <color>#74A9CF</color>
+            <color>#2B8CBE</color>
+            <color>#45A8D</color>
+        </color-palette>
+
+        <color-palette name="PuBu-6" type="ordered-sequential">
+            <color>#F1EEF6</color>
+            <color>#D0D1E6</color>
+            <color>#A6BDDB</color>
+            <color>#74A9CF</color>
+            <color>#2B8CBE</color>
+            <color>#45A8D</color>
+        </color-palette>
+
+        <color-palette name="PuBu-7" type="ordered-sequential">
+            <color>#F1EEF6</color>
+            <color>#D0D1E6</color>
+            <color>#A6BDDB</color>
+            <color>#74A9CF</color>
+            <color>#3690C0</color>
+            <color>#570B0</color>
+            <color>#34E7B</color>
+        </color-palette>
+
+        <color-palette name="PuBu-8" type="ordered-sequential">
+            <color>#FFF7FB</color>
+            <color>#ECE7F2</color>
+            <color>#D0D1E6</color>
+            <color>#A6BDDB</color>
+            <color>#74A9CF</color>
+            <color>#3690C0</color>
+            <color>#570B0</color>
+            <color>#34E7B</color>
+        </color-palette>
+
+        <color-palette name="PuBu-9" type="ordered-sequential">
+            <color>#FFF7FB</color>
+            <color>#ECE7F2</color>
+            <color>#D0D1E6</color>
+            <color>#A6BDDB</color>
+            <color>#74A9CF</color>
+            <color>#3690C0</color>
+            <color>#570B0</color>
+            <color>#45A8D</color>
+            <color>#23858</color>
+        </color-palette>
+
+        <color-palette name="PuBuGn-3" type="ordered-sequential">
+            <color>#ECE2F0</color>
+            <color>#A6BDDB</color>
+            <color>#1C9099</color>
+        </color-palette>
+
+        <color-palette name="PuBuGn-4" type="ordered-sequential">
+            <color>#F6EFF7</color>
+            <color>#BDC9E1</color>
+            <color>#67A9CF</color>
+            <color>#2818A</color>
+        </color-palette>
+
+        <color-palette name="PuBuGn-5" type="ordered-sequential">
+            <color>#F6EFF7</color>
+            <color>#BDC9E1</color>
+            <color>#67A9CF</color>
+            <color>#1C9099</color>
+            <color>#16C59</color>
+        </color-palette>
+
+        <color-palette name="PuBuGn-6" type="ordered-sequential">
+            <color>#F6EFF7</color>
+            <color>#D0D1E6</color>
+            <color>#A6BDDB</color>
+            <color>#67A9CF</color>
+            <color>#1C9099</color>
+            <color>#16C59</color>
+        </color-palette>
+
+        <color-palette name="PuBuGn-7" type="ordered-sequential">
+            <color>#F6EFF7</color>
+            <color>#D0D1E6</color>
+            <color>#A6BDDB</color>
+            <color>#67A9CF</color>
+            <color>#3690C0</color>
+            <color>#2818A</color>
+            <color>#16450</color>
+        </color-palette>
+
+        <color-palette name="PuBuGn-8" type="ordered-sequential">
+            <color>#FFF7FB</color>
+            <color>#ECE2F0</color>
+            <color>#D0D1E6</color>
+            <color>#A6BDDB</color>
+            <color>#67A9CF</color>
+            <color>#3690C0</color>
+            <color>#2818A</color>
+            <color>#16450</color>
+        </color-palette>
+
+        <color-palette name="PuBuGn-9" type="ordered-sequential">
+            <color>#FFF7FB</color>
+            <color>#ECE2F0</color>
+            <color>#D0D1E6</color>
+            <color>#A6BDDB</color>
+            <color>#67A9CF</color>
+            <color>#3690C0</color>
+            <color>#2818A</color>
+            <color>#16C59</color>
+            <color>#14636</color>
+        </color-palette>
+
+        <color-palette name="PuOr-3" type="ordered-diverging">
+            <color>#F1A340</color>
+            <color>#F7F7F7</color>
+            <color>#998EC3</color>
+        </color-palette>
+
+        <color-palette name="PuOr-4" type="ordered-diverging">
+            <color>#E6611</color>
+            <color>#FDB863</color>
+            <color>#B2ABD2</color>
+            <color>#5E3C99</color>
+        </color-palette>
+
+        <color-palette name="PuOr-5" type="ordered-diverging">
+            <color>#E6611</color>
+            <color>#FDB863</color>
+            <color>#F7F7F7</color>
+            <color>#B2ABD2</color>
+            <color>#5E3C99</color>
+        </color-palette>
+
+        <color-palette name="PuOr-6" type="ordered-diverging">
+            <color>#B3586</color>
+            <color>#F1A340</color>
+            <color>#FEE0B6</color>
+            <color>#D8DAEB</color>
+            <color>#998EC3</color>
+            <color>#542788</color>
+        </color-palette>
+
+        <color-palette name="PuOr-7" type="ordered-diverging">
+            <color>#B3586</color>
+            <color>#F1A340</color>
+            <color>#FEE0B6</color>
+            <color>#F7F7F7</color>
+            <color>#D8DAEB</color>
+            <color>#998EC3</color>
+            <color>#542788</color>
+        </color-palette>
+
+        <color-palette name="PuOr-8" type="ordered-diverging">
+            <color>#B3586</color>
+            <color>#E08214</color>
+            <color>#FDB863</color>
+            <color>#FEE0B6</color>
+            <color>#D8DAEB</color>
+            <color>#B2ABD2</color>
+            <color>#8073AC</color>
+            <color>#542788</color>
+        </color-palette>
+
+        <color-palette name="PuOr-9" type="ordered-diverging">
+            <color>#B3586</color>
+            <color>#E08214</color>
+            <color>#FDB863</color>
+            <color>#FEE0B6</color>
+            <color>#F7F7F7</color>
+            <color>#D8DAEB</color>
+            <color>#B2ABD2</color>
+            <color>#8073AC</color>
+            <color>#542788</color>
+        </color-palette>
+
+        <color-palette name="PuOr-10" type="ordered-diverging">
+            <color>#7F3B8</color>
+            <color>#B3586</color>
+            <color>#E08214</color>
+            <color>#FDB863</color>
+            <color>#FEE0B6</color>
+            <color>#D8DAEB</color>
+            <color>#B2ABD2</color>
+            <color>#8073AC</color>
+            <color>#542788</color>
+            <color>#2D04B</color>
+        </color-palette>
+
+        <color-palette name="PuOr-11" type="ordered-diverging">
+            <color>#7F3B8</color>
+            <color>#B3586</color>
+            <color>#E08214</color>
+            <color>#FDB863</color>
+            <color>#FEE0B6</color>
+            <color>#F7F7F7</color>
+            <color>#D8DAEB</color>
+            <color>#B2ABD2</color>
+            <color>#8073AC</color>
+            <color>#542788</color>
+            <color>#2D04B</color>
+        </color-palette>
+
+        <color-palette name="PuRd-3" type="ordered-sequential">
+            <color>#E7E1EF</color>
+            <color>#C994C7</color>
+            <color>#DD1C77</color>
+        </color-palette>
+
+        <color-palette name="PuRd-4" type="ordered-sequential">
+            <color>#F1EEF6</color>
+            <color>#D7B5D8</color>
+            <color>#DF65B0</color>
+            <color>#CE1256</color>
+        </color-palette>
+
+        <color-palette name="PuRd-5" type="ordered-sequential">
+            <color>#F1EEF6</color>
+            <color>#D7B5D8</color>
+            <color>#DF65B0</color>
+            <color>#DD1C77</color>
+            <color>#98043</color>
+        </color-palette>
+
+        <color-palette name="PuRd-6" type="ordered-sequential">
+            <color>#F1EEF6</color>
+            <color>#D4B9DA</color>
+            <color>#C994C7</color>
+            <color>#DF65B0</color>
+            <color>#DD1C77</color>
+            <color>#98043</color>
+        </color-palette>
+
+        <color-palette name="PuRd-7" type="ordered-sequential">
+            <color>#F1EEF6</color>
+            <color>#D4B9DA</color>
+            <color>#C994C7</color>
+            <color>#DF65B0</color>
+            <color>#E7298A</color>
+            <color>#CE1256</color>
+            <color>#9103F</color>
+        </color-palette>
+
+        <color-palette name="PuRd-8" type="ordered-sequential">
+            <color>#F7F4F9</color>
+            <color>#E7E1EF</color>
+            <color>#D4B9DA</color>
+            <color>#C994C7</color>
+            <color>#DF65B0</color>
+            <color>#E7298A</color>
+            <color>#CE1256</color>
+            <color>#9103F</color>
+        </color-palette>
+
+        <color-palette name="PuRd-9" type="ordered-sequential">
+            <color>#F7F4F9</color>
+            <color>#E7E1EF</color>
+            <color>#D4B9DA</color>
+            <color>#C994C7</color>
+            <color>#DF65B0</color>
+            <color>#E7298A</color>
+            <color>#CE1256</color>
+            <color>#98043</color>
+            <color>#6701F</color>
+        </color-palette>
+
+        <color-palette name="Purples-3" type="ordered-sequential">
+            <color>#EFEDF5</color>
+            <color>#BCBDDC</color>
+            <color>#756BB1</color>
+        </color-palette>
+
+        <color-palette name="Purples-4" type="ordered-sequential">
+            <color>#F2F0F7</color>
+            <color>#CBC9E2</color>
+            <color>#9E9AC8</color>
+            <color>#6A51A3</color>
+        </color-palette>
+
+        <color-palette name="Purples-5" type="ordered-sequential">
+            <color>#F2F0F7</color>
+            <color>#CBC9E2</color>
+            <color>#9E9AC8</color>
+            <color>#756BB1</color>
+            <color>#54278F</color>
+        </color-palette>
+
+        <color-palette name="Purples-6" type="ordered-sequential">
+            <color>#F2F0F7</color>
+            <color>#DADAEB</color>
+            <color>#BCBDDC</color>
+            <color>#9E9AC8</color>
+            <color>#756BB1</color>
+            <color>#54278F</color>
+        </color-palette>
+
+        <color-palette name="Purples-7" type="ordered-sequential">
+            <color>#F2F0F7</color>
+            <color>#DADAEB</color>
+            <color>#BCBDDC</color>
+            <color>#9E9AC8</color>
+            <color>#807DBA</color>
+            <color>#6A51A3</color>
+            <color>#4A1486</color>
+        </color-palette>
+
+        <color-palette name="Purples-8" type="ordered-sequential">
+            <color>#FCFBFD</color>
+            <color>#EFEDF5</color>
+            <color>#DADAEB</color>
+            <color>#BCBDDC</color>
+            <color>#9E9AC8</color>
+            <color>#807DBA</color>
+            <color>#6A51A3</color>
+            <color>#4A1486</color>
+        </color-palette>
+
+        <color-palette name="Purples-9" type="ordered-sequential">
+            <color>#FCFBFD</color>
+            <color>#EFEDF5</color>
+            <color>#DADAEB</color>
+            <color>#BCBDDC</color>
+            <color>#9E9AC8</color>
+            <color>#807DBA</color>
+            <color>#6A51A3</color>
+            <color>#54278F</color>
+            <color>#3F07D</color>
+        </color-palette>
+
+        <color-palette name="RdBu-3" type="ordered-diverging">
+            <color>#EF8A62</color>
+            <color>#F7F7F7</color>
+            <color>#67A9CF</color>
+        </color-palette>
+
+        <color-palette name="RdBu-4" type="ordered-diverging">
+            <color>#CA020</color>
+            <color>#F4A582</color>
+            <color>#92C5DE</color>
+            <color>#571B0</color>
+        </color-palette>
+
+        <color-palette name="RdBu-5" type="ordered-diverging">
+            <color>#CA020</color>
+            <color>#F4A582</color>
+            <color>#F7F7F7</color>
+            <color>#92C5DE</color>
+            <color>#571B0</color>
+        </color-palette>
+
+        <color-palette name="RdBu-6" type="ordered-diverging">
+            <color>#B2182B</color>
+            <color>#EF8A62</color>
+            <color>#FDDBC7</color>
+            <color>#D1E5F0</color>
+            <color>#67A9CF</color>
+            <color>#2166AC</color>
+        </color-palette>
+
+        <color-palette name="RdBu-7" type="ordered-diverging">
+            <color>#B2182B</color>
+            <color>#EF8A62</color>
+            <color>#FDDBC7</color>
+            <color>#F7F7F7</color>
+            <color>#D1E5F0</color>
+            <color>#67A9CF</color>
+            <color>#2166AC</color>
+        </color-palette>
+
+        <color-palette name="RdBu-8" type="ordered-diverging">
+            <color>#B2182B</color>
+            <color>#D6604D</color>
+            <color>#F4A582</color>
+            <color>#FDDBC7</color>
+            <color>#D1E5F0</color>
+            <color>#92C5DE</color>
+            <color>#4393C3</color>
+            <color>#2166AC</color>
+        </color-palette>
+
+        <color-palette name="RdBu-9" type="ordered-diverging">
+            <color>#B2182B</color>
+            <color>#D6604D</color>
+            <color>#F4A582</color>
+            <color>#FDDBC7</color>
+            <color>#F7F7F7</color>
+            <color>#D1E5F0</color>
+            <color>#92C5DE</color>
+            <color>#4393C3</color>
+            <color>#2166AC</color>
+        </color-palette>
+
+        <color-palette name="RdBu-10" type="ordered-diverging">
+            <color>#6701F</color>
+            <color>#B2182B</color>
+            <color>#D6604D</color>
+            <color>#F4A582</color>
+            <color>#FDDBC7</color>
+            <color>#D1E5F0</color>
+            <color>#92C5DE</color>
+            <color>#4393C3</color>
+            <color>#2166AC</color>
+            <color>#53061</color>
+        </color-palette>
+
+        <color-palette name="RdBu-11" type="ordered-diverging">
+            <color>#6701F</color>
+            <color>#B2182B</color>
+            <color>#D6604D</color>
+            <color>#F4A582</color>
+            <color>#FDDBC7</color>
+            <color>#F7F7F7</color>
+            <color>#D1E5F0</color>
+            <color>#92C5DE</color>
+            <color>#4393C3</color>
+            <color>#2166AC</color>
+            <color>#53061</color>
+        </color-palette>
+
+        <color-palette name="RdGy-3" type="ordered-diverging">
+            <color>#EF8A62</color>
+            <color>#FFFFFF</color>
+            <color>#999999</color>
+        </color-palette>
+
+        <color-palette name="RdGy-4" type="ordered-diverging">
+            <color>#CA020</color>
+            <color>#F4A582</color>
+            <color>#BABABA</color>
+            <color>#404040</color>
+        </color-palette>
+
+        <color-palette name="RdGy-5" type="ordered-diverging">
+            <color>#CA020</color>
+            <color>#F4A582</color>
+            <color>#FFFFFF</color>
+            <color>#BABABA</color>
+            <color>#404040</color>
+        </color-palette>
+
+        <color-palette name="RdGy-6" type="ordered-diverging">
+            <color>#B2182B</color>
+            <color>#EF8A62</color>
+            <color>#FDDBC7</color>
+            <color>#E0E0E0</color>
+            <color>#999999</color>
+            <color>#4D4D4D</color>
+        </color-palette>
+
+        <color-palette name="RdGy-7" type="ordered-diverging">
+            <color>#B2182B</color>
+            <color>#EF8A62</color>
+            <color>#FDDBC7</color>
+            <color>#FFFFFF</color>
+            <color>#E0E0E0</color>
+            <color>#999999</color>
+            <color>#4D4D4D</color>
+        </color-palette>
+
+        <color-palette name="RdGy-8" type="ordered-diverging">
+            <color>#B2182B</color>
+            <color>#D6604D</color>
+            <color>#F4A582</color>
+            <color>#FDDBC7</color>
+            <color>#E0E0E0</color>
+            <color>#BABABA</color>
+            <color>#878787</color>
+            <color>#4D4D4D</color>
+        </color-palette>
+
+        <color-palette name="RdGy-9" type="ordered-diverging">
+            <color>#B2182B</color>
+            <color>#D6604D</color>
+            <color>#F4A582</color>
+            <color>#FDDBC7</color>
+            <color>#FFFFFF</color>
+            <color>#E0E0E0</color>
+            <color>#BABABA</color>
+            <color>#878787</color>
+            <color>#4D4D4D</color>
+        </color-palette>
+
+        <color-palette name="RdGy-10" type="ordered-diverging">
+            <color>#6701F</color>
+            <color>#B2182B</color>
+            <color>#D6604D</color>
+            <color>#F4A582</color>
+            <color>#FDDBC7</color>
+            <color>#E0E0E0</color>
+            <color>#BABABA</color>
+            <color>#878787</color>
+            <color>#4D4D4D</color>
+            <color>#1A1A1A</color>
+        </color-palette>
+
+        <color-palette name="RdGy-11" type="ordered-diverging">
+            <color>#6701F</color>
+            <color>#B2182B</color>
+            <color>#D6604D</color>
+            <color>#F4A582</color>
+            <color>#FDDBC7</color>
+            <color>#FFFFFF</color>
+            <color>#E0E0E0</color>
+            <color>#BABABA</color>
+            <color>#878787</color>
+            <color>#4D4D4D</color>
+            <color>#1A1A1A</color>
+        </color-palette>
+
+        <color-palette name="RdPu-3" type="ordered-sequential">
+            <color>#FDE0DD</color>
+            <color>#FA9FB5</color>
+            <color>#C51B8A</color>
+        </color-palette>
+
+        <color-palette name="RdPu-4" type="ordered-sequential">
+            <color>#FEEBE2</color>
+            <color>#FBB4B9</color>
+            <color>#F768A1</color>
+            <color>#AE17E</color>
+        </color-palette>
+
+        <color-palette name="RdPu-5" type="ordered-sequential">
+            <color>#FEEBE2</color>
+            <color>#FBB4B9</color>
+            <color>#F768A1</color>
+            <color>#C51B8A</color>
+            <color>#7A177</color>
+        </color-palette>
+
+        <color-palette name="RdPu-6" type="ordered-sequential">
+            <color>#FEEBE2</color>
+            <color>#FCC5C0</color>
+            <color>#FA9FB5</color>
+            <color>#F768A1</color>
+            <color>#C51B8A</color>
+            <color>#7A177</color>
+        </color-palette>
+
+        <color-palette name="RdPu-7" type="ordered-sequential">
+            <color>#FEEBE2</color>
+            <color>#FCC5C0</color>
+            <color>#FA9FB5</color>
+            <color>#F768A1</color>
+            <color>#DD3497</color>
+            <color>#AE17E</color>
+            <color>#7A177</color>
+        </color-palette>
+
+        <color-palette name="RdPu-8" type="ordered-sequential">
+            <color>#FFF7F3</color>
+            <color>#FDE0DD</color>
+            <color>#FCC5C0</color>
+            <color>#FA9FB5</color>
+            <color>#F768A1</color>
+            <color>#DD3497</color>
+            <color>#AE17E</color>
+            <color>#7A177</color>
+        </color-palette>
+
+        <color-palette name="RdPu-9" type="ordered-sequential">
+            <color>#FFF7F3</color>
+            <color>#FDE0DD</color>
+            <color>#FCC5C0</color>
+            <color>#FA9FB5</color>
+            <color>#F768A1</color>
+            <color>#DD3497</color>
+            <color>#AE17E</color>
+            <color>#7A177</color>
+            <color>#4906A</color>
+        </color-palette>
+
+        <color-palette name="Reds-3" type="ordered-sequential">
+            <color>#FEE0D2</color>
+            <color>#FC9272</color>
+            <color>#DE2D26</color>
+        </color-palette>
+
+        <color-palette name="Reds-4" type="ordered-sequential">
+            <color>#FEE5D9</color>
+            <color>#FCAE91</color>
+            <color>#FB6A4A</color>
+            <color>#CB181D</color>
+        </color-palette>
+
+        <color-palette name="Reds-5" type="ordered-sequential">
+            <color>#FEE5D9</color>
+            <color>#FCAE91</color>
+            <color>#FB6A4A</color>
+            <color>#DE2D26</color>
+            <color>#A5F15</color>
+        </color-palette>
+
+        <color-palette name="Reds-6" type="ordered-sequential">
+            <color>#FEE5D9</color>
+            <color>#FCBBA1</color>
+            <color>#FC9272</color>
+            <color>#FB6A4A</color>
+            <color>#DE2D26</color>
+            <color>#A5F15</color>
+        </color-palette>
+
+        <color-palette name="Reds-7" type="ordered-sequential">
+            <color>#FEE5D9</color>
+            <color>#FCBBA1</color>
+            <color>#FC9272</color>
+            <color>#FB6A4A</color>
+            <color>#EF3B2C</color>
+            <color>#CB181D</color>
+            <color>#990D</color>
+        </color-palette>
+
+        <color-palette name="Reds-8" type="ordered-sequential">
+            <color>#FFF5F0</color>
+            <color>#FEE0D2</color>
+            <color>#FCBBA1</color>
+            <color>#FC9272</color>
+            <color>#FB6A4A</color>
+            <color>#EF3B2C</color>
+            <color>#CB181D</color>
+            <color>#990D</color>
+        </color-palette>
+
+        <color-palette name="Reds-9" type="ordered-sequential">
+            <color>#FFF5F0</color>
+            <color>#FEE0D2</color>
+            <color>#FCBBA1</color>
+            <color>#FC9272</color>
+            <color>#FB6A4A</color>
+            <color>#EF3B2C</color>
+            <color>#CB181D</color>
+            <color>#A5F15</color>
+            <color>#670D</color>
+        </color-palette>
+
+        <color-palette name="RdYlBu-3" type="ordered-diverging">
+            <color>#FC8D59</color>
+            <color>#FFFFBF</color>
+            <color>#91BFDB</color>
+        </color-palette>
+
+        <color-palette name="RdYlBu-4" type="ordered-diverging">
+            <color>#D7191C</color>
+            <color>#FDAE61</color>
+            <color>#ABD9E9</color>
+            <color>#2C7BB6</color>
+        </color-palette>
+
+        <color-palette name="RdYlBu-5" type="ordered-diverging">
+            <color>#D7191C</color>
+            <color>#FDAE61</color>
+            <color>#FFFFBF</color>
+            <color>#ABD9E9</color>
+            <color>#2C7BB6</color>
+        </color-palette>
+
+        <color-palette name="RdYlBu-6" type="ordered-diverging">
+            <color>#D73027</color>
+            <color>#FC8D59</color>
+            <color>#FEE090</color>
+            <color>#E0F3F8</color>
+            <color>#91BFDB</color>
+            <color>#4575B4</color>
+        </color-palette>
+
+        <color-palette name="RdYlBu-7" type="ordered-diverging">
+            <color>#D73027</color>
+            <color>#FC8D59</color>
+            <color>#FEE090</color>
+            <color>#FFFFBF</color>
+            <color>#E0F3F8</color>
+            <color>#91BFDB</color>
+            <color>#4575B4</color>
+        </color-palette>
+
+        <color-palette name="RdYlBu-8" type="ordered-diverging">
+            <color>#D73027</color>
+            <color>#F46D43</color>
+            <color>#FDAE61</color>
+            <color>#FEE090</color>
+            <color>#E0F3F8</color>
+            <color>#ABD9E9</color>
+            <color>#74ADD1</color>
+            <color>#4575B4</color>
+        </color-palette>
+
+        <color-palette name="RdYlBu-9" type="ordered-diverging">
+            <color>#D73027</color>
+            <color>#F46D43</color>
+            <color>#FDAE61</color>
+            <color>#FEE090</color>
+            <color>#FFFFBF</color>
+            <color>#E0F3F8</color>
+            <color>#ABD9E9</color>
+            <color>#74ADD1</color>
+            <color>#4575B4</color>
+        </color-palette>
+
+        <color-palette name="RdYlBu-10" type="ordered-diverging">
+            <color>#A5026</color>
+            <color>#D73027</color>
+            <color>#F46D43</color>
+            <color>#FDAE61</color>
+            <color>#FEE090</color>
+            <color>#E0F3F8</color>
+            <color>#ABD9E9</color>
+            <color>#74ADD1</color>
+            <color>#4575B4</color>
+            <color>#313695</color>
+        </color-palette>
+
+        <color-palette name="RdYlBu-11" type="ordered-diverging">
+            <color>#A5026</color>
+            <color>#D73027</color>
+            <color>#F46D43</color>
+            <color>#FDAE61</color>
+            <color>#FEE090</color>
+            <color>#FFFFBF</color>
+            <color>#E0F3F8</color>
+            <color>#ABD9E9</color>
+            <color>#74ADD1</color>
+            <color>#4575B4</color>
+            <color>#313695</color>
+        </color-palette>
+
+        <color-palette name="RdYlGn-3" type="ordered-diverging">
+            <color>#FC8D59</color>
+            <color>#FFFFBF</color>
+            <color>#91CF60</color>
+        </color-palette>
+
+        <color-palette name="RdYlGn-4" type="ordered-diverging">
+            <color>#D7191C</color>
+            <color>#FDAE61</color>
+            <color>#A6D96A</color>
+            <color>#1A9641</color>
+        </color-palette>
+
+        <color-palette name="RdYlGn-5" type="ordered-diverging">
+            <color>#D7191C</color>
+            <color>#FDAE61</color>
+            <color>#FFFFBF</color>
+            <color>#A6D96A</color>
+            <color>#1A9641</color>
+        </color-palette>
+
+        <color-palette name="RdYlGn-6" type="ordered-diverging">
+            <color>#D73027</color>
+            <color>#FC8D59</color>
+            <color>#FEE08B</color>
+            <color>#D9EF8B</color>
+            <color>#91CF60</color>
+            <color>#1A9850</color>
+        </color-palette>
+
+        <color-palette name="RdYlGn-7" type="ordered-diverging">
+            <color>#D73027</color>
+            <color>#FC8D59</color>
+            <color>#FEE08B</color>
+            <color>#FFFFBF</color>
+            <color>#D9EF8B</color>
+            <color>#91CF60</color>
+            <color>#1A9850</color>
+        </color-palette>
+
+        <color-palette name="RdYlGn-8" type="ordered-diverging">
+            <color>#D73027</color>
+            <color>#F46D43</color>
+            <color>#FDAE61</color>
+            <color>#FEE08B</color>
+            <color>#D9EF8B</color>
+            <color>#A6D96A</color>
+            <color>#66BD63</color>
+            <color>#1A9850</color>
+        </color-palette>
+
+        <color-palette name="RdYlGn-9" type="ordered-diverging">
+            <color>#D73027</color>
+            <color>#F46D43</color>
+            <color>#FDAE61</color>
+            <color>#FEE08B</color>
+            <color>#FFFFBF</color>
+            <color>#D9EF8B</color>
+            <color>#A6D96A</color>
+            <color>#66BD63</color>
+            <color>#1A9850</color>
+        </color-palette>
+
+        <color-palette name="RdYlGn-10" type="ordered-diverging">
+            <color>#A5026</color>
+            <color>#D73027</color>
+            <color>#F46D43</color>
+            <color>#FDAE61</color>
+            <color>#FEE08B</color>
+            <color>#D9EF8B</color>
+            <color>#A6D96A</color>
+            <color>#66BD63</color>
+            <color>#1A9850</color>
+            <color>#06837</color>
+        </color-palette>
+
+        <color-palette name="RdYlGn-11" type="ordered-diverging">
+            <color>#A5026</color>
+            <color>#D73027</color>
+            <color>#F46D43</color>
+            <color>#FDAE61</color>
+            <color>#FEE08B</color>
+            <color>#FFFFBF</color>
+            <color>#D9EF8B</color>
+            <color>#A6D96A</color>
+            <color>#66BD63</color>
+            <color>#1A9850</color>
+            <color>#06837</color>
+        </color-palette>
+
+        <color-palette name="Set1-3" type="regular">
+            <color>#E41A1C</color>
+            <color>#377EB8</color>
+            <color>#4DAF4A</color>
+        </color-palette>
+
+        <color-palette name="Set1-4" type="regular">
+            <color>#E41A1C</color>
+            <color>#377EB8</color>
+            <color>#4DAF4A</color>
+            <color>#984EA3</color>
+        </color-palette>
+
+        <color-palette name="Set1-5" type="regular">
+            <color>#E41A1C</color>
+            <color>#377EB8</color>
+            <color>#4DAF4A</color>
+            <color>#984EA3</color>
+            <color>#FF7F0</color>
+        </color-palette>
+
+        <color-palette name="Set1-6" type="regular">
+            <color>#E41A1C</color>
+            <color>#377EB8</color>
+            <color>#4DAF4A</color>
+            <color>#984EA3</color>
+            <color>#FF7F0</color>
+            <color>#FFFF33</color>
+        </color-palette>
+
+        <color-palette name="Set1-7" type="regular">
+            <color>#E41A1C</color>
+            <color>#377EB8</color>
+            <color>#4DAF4A</color>
+            <color>#984EA3</color>
+            <color>#FF7F0</color>
+            <color>#FFFF33</color>
+            <color>#A65628</color>
+        </color-palette>
+
+        <color-palette name="Set1-8" type="regular">
+            <color>#E41A1C</color>
+            <color>#377EB8</color>
+            <color>#4DAF4A</color>
+            <color>#984EA3</color>
+            <color>#FF7F0</color>
+            <color>#FFFF33</color>
+            <color>#A65628</color>
+            <color>#F781BF</color>
+        </color-palette>
+
+        <color-palette name="Set1-9" type="regular">
+            <color>#E41A1C</color>
+            <color>#377EB8</color>
+            <color>#4DAF4A</color>
+            <color>#984EA3</color>
+            <color>#FF7F0</color>
+            <color>#FFFF33</color>
+            <color>#A65628</color>
+            <color>#F781BF</color>
+            <color>#999999</color>
+        </color-palette>
+
+        <color-palette name="Set2-3" type="regular">
+            <color>#66C2A5</color>
+            <color>#FC8D62</color>
+            <color>#8DA0CB</color>
+        </color-palette>
+
+        <color-palette name="Set2-4" type="regular">
+            <color>#66C2A5</color>
+            <color>#FC8D62</color>
+            <color>#8DA0CB</color>
+            <color>#E78AC3</color>
+        </color-palette>
+
+        <color-palette name="Set2-5" type="regular">
+            <color>#66C2A5</color>
+            <color>#FC8D62</color>
+            <color>#8DA0CB</color>
+            <color>#E78AC3</color>
+            <color>#A6D854</color>
+        </color-palette>
+
+        <color-palette name="Set2-6" type="regular">
+            <color>#66C2A5</color>
+            <color>#FC8D62</color>
+            <color>#8DA0CB</color>
+            <color>#E78AC3</color>
+            <color>#A6D854</color>
+            <color>#FFD92F</color>
+        </color-palette>
+
+        <color-palette name="Set2-7" type="regular">
+            <color>#66C2A5</color>
+            <color>#FC8D62</color>
+            <color>#8DA0CB</color>
+            <color>#E78AC3</color>
+            <color>#A6D854</color>
+            <color>#FFD92F</color>
+            <color>#E5C494</color>
+        </color-palette>
+
+        <color-palette name="Set2-8" type="regular">
+            <color>#66C2A5</color>
+            <color>#FC8D62</color>
+            <color>#8DA0CB</color>
+            <color>#E78AC3</color>
+            <color>#A6D854</color>
+            <color>#FFD92F</color>
+            <color>#E5C494</color>
+            <color>#B3B3B3</color>
+        </color-palette>
+
+        <color-palette name="Set3-3" type="regular">
+            <color>#8DD3C7</color>
+            <color>#FFFFB3</color>
+            <color>#BEBADA</color>
+        </color-palette>
+
+        <color-palette name="Set3-4" type="regular">
+            <color>#8DD3C7</color>
+            <color>#FFFFB3</color>
+            <color>#BEBADA</color>
+            <color>#FB8072</color>
+        </color-palette>
+
+        <color-palette name="Set3-5" type="regular">
+            <color>#8DD3C7</color>
+            <color>#FFFFB3</color>
+            <color>#BEBADA</color>
+            <color>#FB8072</color>
+            <color>#80B1D3</color>
+        </color-palette>
+
+        <color-palette name="Set3-6" type="regular">
+            <color>#8DD3C7</color>
+            <color>#FFFFB3</color>
+            <color>#BEBADA</color>
+            <color>#FB8072</color>
+            <color>#80B1D3</color>
+            <color>#FDB462</color>
+        </color-palette>
+
+        <color-palette name="Set3-7" type="regular">
+            <color>#8DD3C7</color>
+            <color>#FFFFB3</color>
+            <color>#BEBADA</color>
+            <color>#FB8072</color>
+            <color>#80B1D3</color>
+            <color>#FDB462</color>
+            <color>#B3DE69</color>
+        </color-palette>
+
+        <color-palette name="Set3-8" type="regular">
+            <color>#8DD3C7</color>
+            <color>#FFFFB3</color>
+            <color>#BEBADA</color>
+            <color>#FB8072</color>
+            <color>#80B1D3</color>
+            <color>#FDB462</color>
+            <color>#B3DE69</color>
+            <color>#FCCDE5</color>
+        </color-palette>
+
+        <color-palette name="Set3-9" type="regular">
+            <color>#8DD3C7</color>
+            <color>#FFFFB3</color>
+            <color>#BEBADA</color>
+            <color>#FB8072</color>
+            <color>#80B1D3</color>
+            <color>#FDB462</color>
+            <color>#B3DE69</color>
+            <color>#FCCDE5</color>
+            <color>#D9D9D9</color>
+        </color-palette>
+
+        <color-palette name="Set3-10" type="regular">
+            <color>#8DD3C7</color>
+            <color>#FFFFB3</color>
+            <color>#BEBADA</color>
+            <color>#FB8072</color>
+            <color>#80B1D3</color>
+            <color>#FDB462</color>
+            <color>#B3DE69</color>
+            <color>#FCCDE5</color>
+            <color>#D9D9D9</color>
+            <color>#BC80BD</color>
+        </color-palette>
+
+        <color-palette name="Set3-11" type="regular">
+            <color>#8DD3C7</color>
+            <color>#FFFFB3</color>
+            <color>#BEBADA</color>
+            <color>#FB8072</color>
+            <color>#80B1D3</color>
+            <color>#FDB462</color>
+            <color>#B3DE69</color>
+            <color>#FCCDE5</color>
+            <color>#D9D9D9</color>
+            <color>#BC80BD</color>
+            <color>#CCEBC5</color>
+        </color-palette>
+
+        <color-palette name="Set3-12" type="regular">
+            <color>#8DD3C7</color>
+            <color>#FFFFB3</color>
+            <color>#BEBADA</color>
+            <color>#FB8072</color>
+            <color>#80B1D3</color>
+            <color>#FDB462</color>
+            <color>#B3DE69</color>
+            <color>#FCCDE5</color>
+            <color>#D9D9D9</color>
+            <color>#BC80BD</color>
+            <color>#CCEBC5</color>
+            <color>#FFED6F</color>
+        </color-palette>
+
+        <color-palette name="Spectral-3" type="ordered-diverging">
+            <color>#FC8D59</color>
+            <color>#FFFFBF</color>
+            <color>#99D594</color>
+        </color-palette>
+
+        <color-palette name="Spectral-4" type="ordered-diverging">
+            <color>#D7191C</color>
+            <color>#FDAE61</color>
+            <color>#ABDDA4</color>
+            <color>#2B83BA</color>
+        </color-palette>
+
+        <color-palette name="Spectral-5" type="ordered-diverging">
+            <color>#D7191C</color>
+            <color>#FDAE61</color>
+            <color>#FFFFBF</color>
+            <color>#ABDDA4</color>
+            <color>#2B83BA</color>
+        </color-palette>
+
+        <color-palette name="Spectral-6" type="ordered-diverging">
+            <color>#D53E4F</color>
+            <color>#FC8D59</color>
+            <color>#FEE08B</color>
+            <color>#E6F598</color>
+            <color>#99D594</color>
+            <color>#3288BD</color>
+        </color-palette>
+
+        <color-palette name="Spectral-7" type="ordered-diverging">
+            <color>#D53E4F</color>
+            <color>#FC8D59</color>
+            <color>#FEE08B</color>
+            <color>#FFFFBF</color>
+            <color>#E6F598</color>
+            <color>#99D594</color>
+            <color>#3288BD</color>
+        </color-palette>
+
+        <color-palette name="Spectral-8" type="ordered-diverging">
+            <color>#D53E4F</color>
+            <color>#F46D43</color>
+            <color>#FDAE61</color>
+            <color>#FEE08B</color>
+            <color>#E6F598</color>
+            <color>#ABDDA4</color>
+            <color>#66C2A5</color>
+            <color>#3288BD</color>
+        </color-palette>
+
+        <color-palette name="Spectral-9" type="ordered-diverging">
+            <color>#D53E4F</color>
+            <color>#F46D43</color>
+            <color>#FDAE61</color>
+            <color>#FEE08B</color>
+            <color>#FFFFBF</color>
+            <color>#E6F598</color>
+            <color>#ABDDA4</color>
+            <color>#66C2A5</color>
+            <color>#3288BD</color>
+        </color-palette>
+
+        <color-palette name="Spectral-10" type="ordered-diverging">
+            <color>#9E142</color>
+            <color>#D53E4F</color>
+            <color>#F46D43</color>
+            <color>#FDAE61</color>
+            <color>#FEE08B</color>
+            <color>#E6F598</color>
+            <color>#ABDDA4</color>
+            <color>#66C2A5</color>
+            <color>#3288BD</color>
+            <color>#5E4FA2</color>
+        </color-palette>
+
+        <color-palette name="Spectral-11" type="ordered-diverging">
+            <color>#9E142</color>
+            <color>#D53E4F</color>
+            <color>#F46D43</color>
+            <color>#FDAE61</color>
+            <color>#FEE08B</color>
+            <color>#FFFFBF</color>
+            <color>#E6F598</color>
+            <color>#ABDDA4</color>
+            <color>#66C2A5</color>
+            <color>#3288BD</color>
+            <color>#5E4FA2</color>
+        </color-palette>
+
+        <color-palette name="YlGn-3" type="ordered-sequential">
+            <color>#F7FCB9</color>
+            <color>#ADDD8E</color>
+            <color>#31A354</color>
+        </color-palette>
+
+        <color-palette name="YlGn-4" type="ordered-sequential">
+            <color>#FFFFCC</color>
+            <color>#C2E699</color>
+            <color>#78C679</color>
+            <color>#238443</color>
+        </color-palette>
+
+        <color-palette name="YlGn-5" type="ordered-sequential">
+            <color>#FFFFCC</color>
+            <color>#C2E699</color>
+            <color>#78C679</color>
+            <color>#31A354</color>
+            <color>#06837</color>
+        </color-palette>
+
+        <color-palette name="YlGn-6" type="ordered-sequential">
+            <color>#FFFFCC</color>
+            <color>#D9F0A3</color>
+            <color>#ADDD8E</color>
+            <color>#78C679</color>
+            <color>#31A354</color>
+            <color>#06837</color>
+        </color-palette>
+
+        <color-palette name="YlGn-7" type="ordered-sequential">
+            <color>#FFFFCC</color>
+            <color>#D9F0A3</color>
+            <color>#ADDD8E</color>
+            <color>#78C679</color>
+            <color>#41AB5D</color>
+            <color>#238443</color>
+            <color>#05A32</color>
+        </color-palette>
+
+        <color-palette name="YlGn-8" type="ordered-sequential">
+            <color>#FFFFE5</color>
+            <color>#F7FCB9</color>
+            <color>#D9F0A3</color>
+            <color>#ADDD8E</color>
+            <color>#78C679</color>
+            <color>#41AB5D</color>
+            <color>#238443</color>
+            <color>#05A32</color>
+        </color-palette>
+
+        <color-palette name="YlGn-9" type="ordered-sequential">
+            <color>#FFFFE5</color>
+            <color>#F7FCB9</color>
+            <color>#D9F0A3</color>
+            <color>#ADDD8E</color>
+            <color>#78C679</color>
+            <color>#41AB5D</color>
+            <color>#238443</color>
+            <color>#06837</color>
+            <color>#04529</color>
+        </color-palette>
+
+        <color-palette name="YlGnBu-3" type="ordered-sequential">
+            <color>#EDF8B1</color>
+            <color>#7FCDBB</color>
+            <color>#2C7FB8</color>
+        </color-palette>
+
+        <color-palette name="YlGnBu-4" type="ordered-sequential">
+            <color>#FFFFCC</color>
+            <color>#A1DAB4</color>
+            <color>#41B6C4</color>
+            <color>#225EA8</color>
+        </color-palette>
+
+        <color-palette name="YlGnBu-5" type="ordered-sequential">
+            <color>#FFFFCC</color>
+            <color>#A1DAB4</color>
+            <color>#41B6C4</color>
+            <color>#2C7FB8</color>
+            <color>#253494</color>
+        </color-palette>
+
+        <color-palette name="YlGnBu-6" type="ordered-sequential">
+            <color>#FFFFCC</color>
+            <color>#C7E9B4</color>
+            <color>#7FCDBB</color>
+            <color>#41B6C4</color>
+            <color>#2C7FB8</color>
+            <color>#253494</color>
+        </color-palette>
+
+        <color-palette name="YlGnBu-7" type="ordered-sequential">
+            <color>#FFFFCC</color>
+            <color>#C7E9B4</color>
+            <color>#7FCDBB</color>
+            <color>#41B6C4</color>
+            <color>#1D91C0</color>
+            <color>#225EA8</color>
+            <color>#C2C84</color>
+        </color-palette>
+
+        <color-palette name="YlGnBu-8" type="ordered-sequential">
+            <color>#FFFFD9</color>
+            <color>#EDF8B1</color>
+            <color>#C7E9B4</color>
+            <color>#7FCDBB</color>
+            <color>#41B6C4</color>
+            <color>#1D91C0</color>
+            <color>#225EA8</color>
+            <color>#C2C84</color>
+        </color-palette>
+
+        <color-palette name="YlGnBu-9" type="ordered-sequential">
+            <color>#FFFFD9</color>
+            <color>#EDF8B1</color>
+            <color>#C7E9B4</color>
+            <color>#7FCDBB</color>
+            <color>#41B6C4</color>
+            <color>#1D91C0</color>
+            <color>#225EA8</color>
+            <color>#253494</color>
+            <color>#81D58</color>
+        </color-palette>
+
+        <color-palette name="YlOrBr-3" type="ordered-sequential">
+            <color>#FFF7BC</color>
+            <color>#FEC44F</color>
+            <color>#D95FE</color>
+        </color-palette>
+
+        <color-palette name="YlOrBr-4" type="ordered-sequential">
+            <color>#FFFFD4</color>
+            <color>#FED98E</color>
+            <color>#FE9929</color>
+            <color>#CC4C2</color>
+        </color-palette>
+
+        <color-palette name="YlOrBr-5" type="ordered-sequential">
+            <color>#FFFFD4</color>
+            <color>#FED98E</color>
+            <color>#FE9929</color>
+            <color>#D95FE</color>
+            <color>#99344</color>
+        </color-palette>
+
+        <color-palette name="YlOrBr-6" type="ordered-sequential">
+            <color>#FFFFD4</color>
+            <color>#FEE391</color>
+            <color>#FEC44F</color>
+            <color>#FE9929</color>
+            <color>#D95FE</color>
+            <color>#99344</color>
+        </color-palette>
+
+        <color-palette name="YlOrBr-7" type="ordered-sequential">
+            <color>#FFFFD4</color>
+            <color>#FEE391</color>
+            <color>#FEC44F</color>
+            <color>#FE9929</color>
+            <color>#EC7014</color>
+            <color>#CC4C2</color>
+            <color>#8C2D4</color>
+        </color-palette>
+
+        <color-palette name="YlOrBr-8" type="ordered-sequential">
+            <color>#FFFFE5</color>
+            <color>#FFF7BC</color>
+            <color>#FEE391</color>
+            <color>#FEC44F</color>
+            <color>#FE9929</color>
+            <color>#EC7014</color>
+            <color>#CC4C2</color>
+            <color>#8C2D4</color>
+        </color-palette>
+
+        <color-palette name="YlOrBr-9" type="ordered-sequential">
+            <color>#FFFFE5</color>
+            <color>#FFF7BC</color>
+            <color>#FEE391</color>
+            <color>#FEC44F</color>
+            <color>#FE9929</color>
+            <color>#EC7014</color>
+            <color>#CC4C2</color>
+            <color>#99344</color>
+            <color>#66256</color>
+        </color-palette>
+
+        <color-palette name="YlOrRd-3" type="ordered-sequential">
+            <color>#FFEDA0</color>
+            <color>#FEB24C</color>
+            <color>#F03B20</color>
+        </color-palette>
+
+        <color-palette name="YlOrRd-4" type="ordered-sequential">
+            <color>#FFFFB2</color>
+            <color>#FECC5C</color>
+            <color>#FD8D3C</color>
+            <color>#E31A1C</color>
+        </color-palette>
+
+        <color-palette name="YlOrRd-5" type="ordered-sequential">
+            <color>#FFFFB2</color>
+            <color>#FECC5C</color>
+            <color>#FD8D3C</color>
+            <color>#F03B20</color>
+            <color>#BD026</color>
+        </color-palette>
+
+        <color-palette name="YlOrRd-6" type="ordered-sequential">
+            <color>#FFFFB2</color>
+            <color>#FED976</color>
+            <color>#FEB24C</color>
+            <color>#FD8D3C</color>
+            <color>#F03B20</color>
+            <color>#BD026</color>
+        </color-palette>
+
+        <color-palette name="YlOrRd-7" type="ordered-sequential">
+            <color>#FFFFB2</color>
+            <color>#FED976</color>
+            <color>#FEB24C</color>
+            <color>#FD8D3C</color>
+            <color>#FC4E2A</color>
+            <color>#E31A1C</color>
+            <color>#B1026</color>
+        </color-palette>
+
+        <color-palette name="YlOrRd-8" type="ordered-sequential">
+            <color>#FFFFCC</color>
+            <color>#FFEDA0</color>
+            <color>#FED976</color>
+            <color>#FEB24C</color>
+            <color>#FD8D3C</color>
+            <color>#FC4E2A</color>
+            <color>#E31A1C</color>
+            <color>#B1026</color>
+        </color-palette>
+
+        <color-palette name="YlOrRd-9" type="ordered-sequential">
+            <color>#FFFFCC</color>
+            <color>#FFEDA0</color>
+            <color>#FED976</color>
+            <color>#FEB24C</color>
+            <color>#FD8D3C</color>
+            <color>#FC4E2A</color>
+            <color>#E31A1C</color>
+            <color>#BD026</color>
+            <color>#80026</color>
+        </color-palette>
 
     </preferences>
 </workbook>
